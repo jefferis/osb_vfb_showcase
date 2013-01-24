@@ -1,0 +1,1888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<neuroml xmlns="http://www.neuroml.org/schema/neuroml2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.neuroml.org/schema/neuroml2  http://neuroml.svn.sourceforge.net/viewvc/neuroml/NeuroML2/Schemas/NeuroML2/NeuroML_v2alpha.xsd" id="TPHMARCM-M001739_seg001">
+
+    <cell id="TPHMARCM-M001739_seg001">
+
+        <notes>
+        
+        </notes>
+
+        <morphology id="morphology_TPHMARCM-M001739_seg001">
+
+            <segment id="0" name="seg_0">
+    <proximal x="359.0775" y="105.0555" z="31.93597" diameter="4"/>
+    <distal x="359.0775" y="105.0555" z="31.93597" diameter="4"/>
+</segment>
+            <segment id="1" name="seg_1">
+    <proximal x="361.8511" y="104.1148" z="30.708" diameter="1"/>
+    <distal x="361.4155" y="103.8808" z="31.5772" diameter="1"/>
+</segment>
+<segment id="2" name="seg_2">
+    <proximal x="361.3104" y="104.6235" z="31.61881" diameter="1"/>
+    <distal x="360.8748" y="104.3895" z="32.48801" diameter="1"/>
+</segment>
+<segment id="3" name="seg_3">
+    <proximal x="361.5681" y="104.0945" z="32.48369" diameter="1"/>
+    <distal x="361.1324" y="103.8605" z="33.35289" diameter="1"/>
+</segment>
+<segment id="4" name="seg_4">
+    <proximal x="360.2723" y="103.2835" z="34.02939" diameter="1"/>
+    <distal x="360.8468" y="103.615" z="33.28107" diameter="1"/>
+</segment>
+<segment id="5" name="seg_5">
+    <proximal x="358.9675" y="103.3022" z="34.68565" diameter="1"/>
+    <distal x="359.7459" y="103.5092" z="34.09295" diameter="1"/>
+</segment>
+<segment id="6" name="seg_6">
+    <proximal x="359.4979" y="103.2972" z="34.76874" diameter="1"/>
+    <distal x="360.2662" y="103.5621" z="34.18608" diameter="1"/>
+</segment>
+<segment id="7" name="seg_7">
+    <proximal x="356.7622" y="102.1359" z="35.20606" diameter="1"/>
+    <distal x="357.4782" y="102.3097" z="34.52994" diameter="1"/>
+</segment>
+<segment id="8" name="seg_8">
+    <proximal x="358.0346" y="102.6714" z="35.29622" diameter="1"/>
+    <distal x="358.8991" y="103.022" z="34.93603" diameter="1"/>
+</segment>
+<segment id="9" name="seg_9">
+    <proximal x="357.265" y="102.7114" z="36.3616" diameter="1"/>
+    <distal x="357.981" y="102.8852" z="35.68549" diameter="1"/>
+</segment>
+<segment id="10" name="seg_10">
+    <proximal x="284.777" y="95.10151" z="39.56459" diameter="1"/>
+    <distal x="285.72" y="94.77866" z="39.64511" diameter="1"/>
+</segment>
+<segment id="11" name="seg_11">
+    <proximal x="285.3122" y="95.05275" z="39.39595" diameter="1"/>
+    <distal x="286.2004" y="95.00813" z="39.85324" diameter="1"/>
+</segment>
+<segment id="12" name="seg_12">
+    <proximal x="280.8985" y="95.42602" z="39.21633" diameter="1"/>
+    <distal x="281.3443" y="94.69121" z="39.72752" diameter="1"/>
+</segment>
+<segment id="13" name="seg_13">
+    <proximal x="284.3151" y="95.77608" z="39.47476" diameter="1"/>
+    <distal x="285.1521" y="95.23588" z="39.56158" diameter="1"/>
+</segment>
+<segment id="14" name="seg_14">
+    <proximal x="286.5784" y="96.11108" z="39.61445" diameter="1"/>
+    <distal x="285.882" y="95.39511" z="39.56485" diameter="1"/>
+</segment>
+<segment id="15" name="seg_15">
+    <proximal x="279.5443" y="95.696" z="39.63391" diameter="1"/>
+    <distal x="280.4417" y="95.68205" z="39.19277" diameter="1"/>
+</segment>
+<segment id="16" name="seg_16">
+    <proximal x="280.1035" y="95.60079" z="39.59884" diameter="1"/>
+    <distal x="281.0114" y="95.825" z="39.24476" diameter="1"/>
+</segment>
+<segment id="17" name="seg_17">
+    <proximal x="281.244" y="95.48386" z="39.44225" diameter="1"/>
+    <distal x="282.0521" y="96.0715" z="39.40321" diameter="1"/>
+</segment>
+<segment id="18" name="seg_18">
+    <proximal x="283.3203" y="96.15377" z="39.72579" diameter="1"/>
+    <distal x="284.1034" y="95.89118" z="39.16192" diameter="1"/>
+</segment>
+<segment id="19" name="seg_19">
+    <proximal x="283.8153" y="96.23312" z="39.73178" diameter="1"/>
+    <distal x="284.5984" y="95.97053" z="39.16791" diameter="1"/>
+</segment>
+<segment id="20" name="seg_20">
+    <proximal x="286.8646" y="96.9862" z="39.51987" diameter="1"/>
+    <distal x="286.5548" y="96.03791" z="39.5893" diameter="1"/>
+</segment>
+<segment id="21" name="seg_21">
+    <proximal x="281.875" y="96.87121" z="39.09421" diameter="1"/>
+    <distal x="282.4289" y="96.23844" z="39.63541" diameter="1"/>
+</segment>
+<segment id="22" name="seg_22">
+    <proximal x="282.1912" y="96.72051" z="39.35065" diameter="1"/>
+    <distal x="283.1622" y="96.48389" z="39.38686" diameter="1"/>
+</segment>
+<segment id="23" name="seg_23">
+    <proximal x="286.6862" y="97.72176" z="39.43035" diameter="1"/>
+    <distal x="286.7039" y="96.72612" z="39.52188" diameter="1"/>
+</segment>
+<segment id="24" name="seg_24">
+    <proximal x="282.3074" y="97.78198" z="39.29282" diameter="1"/>
+    <distal x="281.9597" y="96.84586" z="39.34583" diameter="1"/>
+</segment>
+<segment id="25" name="seg_25">
+    <proximal x="286.6497" y="98.4521" z="39.36905" diameter="1"/>
+    <distal x="286.7169" y="97.45783" z="39.45219" diameter="1"/>
+</segment>
+<segment id="26" name="seg_26">
+    <proximal x="282.5915" y="98.66004" z="39.24267" diameter="1"/>
+    <distal x="282.6662" y="97.66435" z="39.29768" diameter="1"/>
+</segment>
+<segment id="27" name="seg_27">
+    <proximal x="282.8186" y="98.5337" z="39.06095" diameter="1"/>
+    <distal x="283.4727" y="97.91297" z="39.49318" diameter="1"/>
+</segment>
+<segment id="28" name="seg_28">
+    <proximal x="286.1816" y="99.13464" z="39.42295" diameter="1"/>
+    <distal x="286.1591" y="98.15267" z="39.23527" diameter="1"/>
+</segment>
+<segment id="29" name="seg_29">
+    <proximal x="281.8433" y="99.33344" z="39.39079" diameter="1"/>
+    <distal x="282.3284" y="98.51253" z="39.08937" diameter="1"/>
+</segment>
+<segment id="30" name="seg_30">
+    <proximal x="286.8295" y="99.95936" z="39.471" diameter="1"/>
+    <distal x="286.5885" y="99.03886" z="39.16342" diameter="1"/>
+</segment>
+<segment id="31" name="seg_31">
+    <proximal x="356.8752" y="102.7114" z="36.6426" diameter="1"/>
+    <distal x="356.3931" y="102.7514" z="37.5178" diameter="1"/>
+</segment>
+<segment id="32" name="seg_32">
+    <proximal x="281.33" y="93.51164" z="40.37215" diameter="1"/>
+    <distal x="282.0001" y="92.82187" z="40.64646" diameter="1"/>
+</segment>
+<segment id="33" name="seg_33">
+    <proximal x="279.7778" y="94.05174" z="40.81194" diameter="1"/>
+    <distal x="280.1751" y="94.5723" z="40.05619" diameter="1"/>
+</segment>
+<segment id="34" name="seg_34">
+    <proximal x="281.1067" y="94.69466" z="40.09855" diameter="1"/>
+    <distal x="281.0878" y="93.96613" z="40.78331" diameter="1"/>
+</segment>
+<segment id="35" name="seg_35">
+    <proximal x="286.5786" y="95.35995" z="40.25571" diameter="1"/>
+    <distal x="286.9296" y="94.82429" z="41.02374" diameter="1"/>
+</segment>
+<segment id="36" name="seg_36">
+    <proximal x="279.6948" y="95.17176" z="40.07087" diameter="1"/>
+    <distal x="279.0423" y="94.7307" z="40.68703" diameter="1"/>
+</segment>
+<segment id="37" name="seg_37">
+    <proximal x="278.3908" y="95.94596" z="40.35597" diameter="1"/>
+    <distal x="279.1334" y="95.2772" z="40.32001" diameter="1"/>
+</segment>
+<segment id="38" name="seg_38">
+    <proximal x="282.6818" y="95.84445" z="40.23318" diameter="1"/>
+    <distal x="283.6543" y="95.82961" z="40.46559" diameter="1"/>
+</segment>
+<segment id="39" name="seg_39">
+    <proximal x="277.8083" y="96.67368" z="40.33861" diameter="1"/>
+    <distal x="278.4346" y="95.89822" z="40.25883" diameter="1"/>
+</segment>
+<segment id="40" name="seg_40">
+    <proximal x="284.1477" y="96.3633" z="39.92722" diameter="1"/>
+    <distal x="284.1735" y="97.02507" z="40.67648" diameter="1"/>
+</segment>
+<segment id="41" name="seg_41">
+    <proximal x="283.3275" y="97.43503" z="39.84079" diameter="1"/>
+    <distal x="283.9424" y="97.28842" z="40.61563" diameter="1"/>
+</segment>
+<segment id="42" name="seg_42">
+    <proximal x="277.2816" y="98.17156" z="40.07019" diameter="1"/>
+    <distal x="277.501" y="97.22326" z="40.29958" diameter="1"/>
+</segment>
+<segment id="43" name="seg_43">
+    <proximal x="277.2864" y="98.91935" z="39.9334" diameter="1"/>
+    <distal x="277.3466" y="97.98058" z="40.27264" diameter="1"/>
+</segment>
+<segment id="44" name="seg_44">
+    <proximal x="277.1141" y="99.70211" z="39.97228" diameter="1"/>
+    <distal x="277.3907" y="98.74547" z="40.06361" diameter="1"/>
+</segment>
+<segment id="45" name="seg_45">
+    <proximal x="281.1719" y="99.96079" z="40.19531" diameter="1"/>
+    <distal x="281.7761" y="99.19737" z="39.96697" diameter="1"/>
+</segment>
+<segment id="46" name="seg_46">
+    <proximal x="286.8514" y="100.6376" z="40.35099" diameter="1"/>
+    <distal x="286.6081" y="99.71931" z="40.03868" diameter="1"/>
+</segment>
+<segment id="47" name="seg_47">
+    <proximal x="276.8987" y="100.4256" z="40.02791" diameter="1"/>
+    <distal x="277.4407" y="99.60028" z="39.86955" diameter="1"/>
+</segment>
+<segment id="48" name="seg_48">
+    <proximal x="280.5751" y="100.7508" z="40.15359" diameter="1"/>
+    <distal x="281.1793" y="99.98738" z="39.92526" diameter="1"/>
+</segment>
+<segment id="49" name="seg_49">
+    <proximal x="287.6923" y="101.3775" z="40.24548" diameter="1"/>
+    <distal x="286.9594" y="100.7" z="40.18399" diameter="1"/>
+</segment>
+<segment id="50" name="seg_50">
+    <proximal x="276.0149" y="101.0173" z="40.04307" diameter="1"/>
+    <distal x="276.7657" y="100.4243" z="39.75239" diameter="1"/>
+</segment>
+<segment id="51" name="seg_51">
+    <proximal x="279.7844" y="101.274" z="40.015" diameter="1"/>
+    <distal x="280.7638" y="101.0878" z="39.93694" diameter="1"/>
+</segment>
+<segment id="52" name="seg_52">
+    <proximal x="286.8671" y="101.2833" z="40.17594" diameter="1"/>
+    <distal x="286.7936" y="102.2805" z="40.16869" diameter="1"/>
+</segment>
+<segment id="53" name="seg_53">
+    <proximal x="287.5577" y="101.6544" z="40.2276" diameter="1"/>
+    <distal x="288.435" y="102.1239" z="40.32751" diameter="1"/>
+</segment>
+<segment id="54" name="seg_54">
+    <proximal x="288.1701" y="101.7146" z="40.30235" diameter="1"/>
+    <distal x="289.0474" y="102.1841" z="40.40225" diameter="1"/>
+</segment>
+<segment id="55" name="seg_55">
+    <proximal x="285.8559" y="102.6206" z="40.12142" diameter="1"/>
+    <distal x="286.8319" y="102.4195" z="40.20395" diameter="1"/>
+</segment>
+<segment id="56" name="seg_56">
+    <proximal x="288.933" y="102.5264" z="40.41012" diameter="1"/>
+    <distal x="289.8103" y="102.9959" z="40.51002" diameter="1"/>
+</segment>
+<segment id="57" name="seg_57">
+    <proximal x="356.5479" y="102.8078" z="37.86719" diameter="1"/>
+    <distal x="355.8915" y="102.6587" z="38.60677" diameter="1"/>
+</segment>
+<segment id="58" name="seg_58">
+    <proximal x="280.7182" y="93.4531" z="41.29453" diameter="1"/>
+    <distal x="281.3883" y="92.76334" z="41.56884" diameter="1"/>
+</segment>
+<segment id="59" name="seg_59">
+    <proximal x="280.1491" y="94.02625" z="41.26234" diameter="1"/>
+    <distal x="280.8191" y="93.33649" z="41.53665" diameter="1"/>
+</segment>
+<segment id="60" name="seg_60">
+    <proximal x="287.0031" y="94.70884" z="41.35135" diameter="1"/>
+    <distal x="287.6167" y="94.26719" z="42.00589" diameter="1"/>
+</segment>
+<segment id="61" name="seg_61">
+    <proximal x="290.1398" y="95.34613" z="41.83648" diameter="1"/>
+    <distal x="290.0737" y="94.43073" z="42.23358" diameter="1"/>
+</segment>
+<segment id="62" name="seg_62">
+    <proximal x="290.0235" y="95.99355" z="41.83026" diameter="1"/>
+    <distal x="290.2098" y="95.07309" z="42.17381" diameter="1"/>
+</segment>
+<segment id="63" name="seg_63">
+    <proximal x="267.9592" y="95.15216" z="41.71419" diameter="1"/>
+    <distal x="268.8549" y="94.79933" z="41.98474" diameter="1"/>
+</segment>
+<segment id="64" name="seg_64">
+    <proximal x="290.1445" y="96.69432" z="41.94442" diameter="1"/>
+    <distal x="290.1129" y="95.69647" z="42.0019" diameter="1"/>
+</segment>
+<segment id="65" name="seg_65">
+    <proximal x="269.8539" y="95.44593" z="41.94886" diameter="1"/>
+    <distal x="270.6928" y="95.79019" z="41.52723" diameter="1"/>
+</segment>
+<segment id="66" name="seg_66">
+    <proximal x="270.47" y="95.48827" z="41.87357" diameter="1"/>
+    <distal x="271.3731" y="95.75618" z="41.53798" diameter="1"/>
+</segment>
+<segment id="67" name="seg_67">
+    <proximal x="290.1852" y="97.37388" z="41.9063" diameter="1"/>
+    <distal x="290.1401" y="96.37708" z="41.97238" diameter="1"/>
+</segment>
+<segment id="68" name="seg_68">
+    <proximal x="268.3646" y="96.73841" z="41.68242" diameter="1"/>
+    <distal x="268.0634" y="95.82096" z="41.94238" diameter="1"/>
+</segment>
+<segment id="69" name="seg_69">
+    <proximal x="271.0486" y="95.99988" z="41.69679" diameter="1"/>
+    <distal x="271.9351" y="96.45703" z="41.62475" diameter="1"/>
+</segment>
+<segment id="70" name="seg_70">
+    <proximal x="271.7491" y="95.9302" z="41.65286" diameter="1"/>
+    <distal x="272.544" y="96.53037" z="41.56343" diameter="1"/>
+</segment>
+<segment id="71" name="seg_71">
+    <proximal x="290.0663" y="97.10296" z="41.89448" diameter="1"/>
+    <distal x="290.3139" y="98.07086" z="41.85125" diameter="1"/>
+</segment>
+<segment id="72" name="seg_72">
+    <proximal x="268.8323" y="96.42486" z="41.80806" diameter="1"/>
+    <distal x="268.7126" y="97.40836" z="41.67237" diameter="1"/>
+</segment>
+<segment id="73" name="seg_73">
+    <proximal x="273.0894" y="97.19638" z="41.48375" diameter="1"/>
+    <distal x="272.3551" y="96.52675" z="41.59523" diameter="1"/>
+</segment>
+<segment id="74" name="seg_74">
+    <proximal x="277.12" y="97.38945" z="41.15746" diameter="1"/>
+    <distal x="277.5862" y="96.50647" z="41.21264" diameter="1"/>
+</segment>
+<segment id="75" name="seg_75">
+    <proximal x="284.3741" y="97.74855" z="41.33877" diameter="1"/>
+    <distal x="283.8904" y="96.93873" z="41.00678" diameter="1"/>
+</segment>
+<segment id="76" name="seg_76">
+    <proximal x="290.1182" y="97.81416" z="41.84491" diameter="1"/>
+    <distal x="290.3658" y="98.78206" z="41.80169" diameter="1"/>
+</segment>
+<segment id="77" name="seg_77">
+    <proximal x="268.7197" y="98.04085" z="41.84274" diameter="1"/>
+    <distal x="268.5914" y="97.09838" z="41.53404" diameter="1"/>
+</segment>
+<segment id="78" name="seg_78">
+    <proximal x="273.0159" y="97.10331" z="41.49552" diameter="1"/>
+    <distal x="273.5708" y="97.92604" z="41.37244" diameter="1"/>
+</segment>
+<segment id="79" name="seg_79">
+    <proximal x="284.3597" y="98.29551" z="40.71818" diameter="1"/>
+    <distal x="284.925" y="98.08031" z="41.51451" diameter="1"/>
+</segment>
+<segment id="80" name="seg_80">
+    <proximal x="291.2142" y="99.58019" z="41.85947" diameter="1"/>
+    <distal x="290.7263" y="98.70734" z="41.86066" diameter="1"/>
+</segment>
+<segment id="81" name="seg_81">
+    <proximal x="273.9442" y="98.68675" z="41.246" diameter="1"/>
+    <distal x="273.781" y="97.70816" z="41.37138" diameter="1"/>
+</segment>
+<segment id="82" name="seg_82">
+    <proximal x="292.0761" y="100.4637" z="41.91775" diameter="1"/>
+    <distal x="291.5881" y="99.59083" z="41.91894" diameter="1"/>
+</segment>
+<segment id="83" name="seg_83">
+    <proximal x="273.7008" y="99.36847" z="41.30463" diameter="1"/>
+    <distal x="273.7984" y="98.38475" z="41.15381" diameter="1"/>
+</segment>
+<segment id="84" name="seg_84">
+    <proximal x="272.455" y="99.52231" z="41.06182" diameter="1"/>
+    <distal x="273.4017" y="99.5204" z="41.38399" diameter="1"/>
+</segment>
+<segment id="85" name="seg_85">
+    <proximal x="271.6514" y="100.1654" z="41.04559" diameter="1"/>
+    <distal x="272.598" y="100.1635" z="41.36776" diameter="1"/>
+</segment>
+<segment id="86" name="seg_86">
+    <proximal x="275.1786" y="101.306" z="40.54055" diameter="1"/>
+    <distal x="274.3927" y="101.0977" z="41.12279" diameter="1"/>
+</segment>
+<segment id="87" name="seg_87">
+    <proximal x="275.0905" y="101.385" z="41.02249" diameter="1"/>
+    <distal x="275.9271" y="101.2546" z="40.49043" diameter="1"/>
+</segment>
+<segment id="88" name="seg_88">
+    <proximal x="354.614" y="102.2841" z="39.2548" diameter="1"/>
+    <distal x="353.887" y="102.0161" z="39.88694" diameter="1"/>
+</segment>
+<segment id="89" name="seg_89">
+    <proximal x="355.2338" y="102.2818" z="39.13202" diameter="1"/>
+    <distal x="354.5068" y="102.0139" z="39.76416" diameter="1"/>
+</segment>
+<segment id="90" name="seg_90">
+    <proximal x="297.0545" y="92.03816" z="43.65843" diameter="1"/>
+    <distal x="298.0295" y="91.81755" z="43.63165" diameter="1"/>
+</segment>
+<segment id="91" name="seg_91">
+    <proximal x="288.5263" y="93.55543" z="42.5855" diameter="1"/>
+    <distal x="289.4215" y="93.35857" z="42.98525" diameter="1"/>
+</segment>
+<segment id="92" name="seg_92">
+    <proximal x="289.0667" y="93.48018" z="42.69616" diameter="1"/>
+    <distal x="290.0187" y="93.56654" z="42.99009" diameter="1"/>
+</segment>
+<segment id="93" name="seg_93">
+    <proximal x="294.8546" y="94.32655" z="43.3317" diameter="1"/>
+    <distal x="295.0264" y="93.39017" z="43.6378" diameter="1"/>
+</segment>
+<segment id="94" name="seg_94">
+    <proximal x="287.4631" y="94.10157" z="42.46173" diameter="1"/>
+    <distal x="288.2934" y="93.72336" z="42.87108" diameter="1"/>
+</segment>
+<segment id="95" name="seg_95">
+    <proximal x="288.0149" y="94.17781" z="42.51354" diameter="1"/>
+    <distal x="288.8452" y="93.7996" z="42.92289" diameter="1"/>
+</segment>
+<segment id="96" name="seg_96">
+    <proximal x="290.3208" y="94.33226" z="42.79124" diameter="1"/>
+    <distal x="291.1924" y="94.14737" z="43.24526" diameter="1"/>
+</segment>
+<segment id="97" name="seg_97">
+    <proximal x="290.9179" y="94.15214" z="43.165" diameter="1"/>
+    <distal x="291.8604" y="94.45414" z="43.02187" diameter="1"/>
+</segment>
+<segment id="98" name="seg_98">
+    <proximal x="291.5475" y="94.32417" z="43.12176" diameter="1"/>
+    <distal x="292.5364" y="94.40675" z="43.24534" diameter="1"/>
+</segment>
+<segment id="99" name="seg_99">
+    <proximal x="292.2242" y="94.37193" z="43.21227" diameter="1"/>
+    <distal x="293.2144" y="94.44557" z="43.33133" diameter="1"/>
+</segment>
+<segment id="100" name="seg_100">
+    <proximal x="292.9529" y="94.5323" z="43.29698" diameter="1"/>
+    <distal x="293.9391" y="94.40288" z="43.40023" diameter="1"/>
+</segment>
+<segment id="101" name="seg_101">
+    <proximal x="293.7113" y="94.43907" z="43.38427" diameter="1"/>
+    <distal x="294.6949" y="94.58893" z="43.4844" diameter="1"/>
+</segment>
+<segment id="102" name="seg_102">
+    <proximal x="295.4868" y="95.67059" z="43.55319" diameter="1"/>
+    <distal x="294.7414" y="95.00638" z="43.49597" diameter="1"/>
+</segment>
+<segment id="103" name="seg_103">
+    <proximal x="295.7573" y="95.97972" z="43.44805" diameter="1"/>
+    <distal x="296.5324" y="96.57229" z="43.66752" diameter="1"/>
+</segment>
+<segment id="104" name="seg_104">
+    <proximal x="298.8459" y="96.8654" z="43.50741" diameter="1"/>
+    <distal x="299.83" y="97.02086" z="43.59361" diameter="1"/>
+</segment>
+<segment id="105" name="seg_105">
+    <proximal x="266.6387" y="95.29103" z="42.65048" diameter="1"/>
+    <distal x="266.0303" y="94.58115" z="43.00536" diameter="1"/>
+</segment>
+<segment id="106" name="seg_106">
+    <proximal x="269.402" y="95.13481" z="42.48504" diameter="1"/>
+    <distal x="268.5964" y="94.74649" z="42.93257" diameter="1"/>
+</segment>
+<segment id="107" name="seg_107">
+    <proximal x="265.7981" y="95.74254" z="42.99967" diameter="1"/>
+    <distal x="266.6846" y="95.48913" z="42.61247" diameter="1"/>
+</segment>
+<segment id="108" name="seg_108">
+    <proximal x="267.1673" y="95.65382" z="42.98397" diameter="1"/>
+    <distal x="268.0444" y="95.48068" z="42.53596" diameter="1"/>
+</segment>
+<segment id="109" name="seg_109">
+    <proximal x="269.0982" y="95.42412" z="42.80012" diameter="1"/>
+    <distal x="270.0234" y="95.71501" z="42.55653" diameter="1"/>
+</segment>
+<segment id="110" name="seg_110">
+    <proximal x="296.3941" y="98.39915" z="43.25554" diameter="1"/>
+    <distal x="296.68" y="97.51563" z="43.62653" diameter="1"/>
+</segment>
+<segment id="111" name="seg_111">
+    <proximal x="266.9382" y="96.75688" z="42.70828" diameter="1"/>
+    <distal x="266.7237" y="95.78233" z="42.77327" diameter="1"/>
+</segment>
+<segment id="112" name="seg_112">
+    <proximal x="296.772" y="99.24052" z="43.15202" diameter="1"/>
+    <distal x="296.7772" y="98.33077" z="43.56715" diameter="1"/>
+</segment>
+<segment id="113" name="seg_113">
+    <proximal x="266.5613" y="96.50513" z="42.55214" diameter="1"/>
+    <distal x="266.9064" y="97.39712" z="42.8441" diameter="1"/>
+</segment>
+<segment id="114" name="seg_114">
+    <proximal x="297.776" y="99.43059" z="43.27771" diameter="1"/>
+    <distal x="298.3061" y="100.2734" z="43.18466" diameter="1"/>
+</segment>
+<segment id="115" name="seg_115">
+    <proximal x="297.9572" y="100.1705" z="43.20287" diameter="1"/>
+    <distal x="298.4872" y="101.0134" z="43.10981" diameter="1"/>
+</segment>
+<segment id="116" name="seg_116">
+    <proximal x="348.8409" y="98.88194" z="42.08142" diameter="1"/>
+    <distal x="349.5872" y="99.23554" z="41.51749" diameter="1"/>
+</segment>
+<segment id="117" name="seg_117">
+    <proximal x="261.2394" y="99.10264" z="42.25359" diameter="1"/>
+    <distal x="262.1214" y="98.74833" z="42.56418" diameter="1"/>
+</segment>
+<segment id="118" name="seg_118">
+    <proximal x="261.9662" y="99.01236" z="42.26976" diameter="1"/>
+    <distal x="262.8482" y="98.65805" z="42.58035" diameter="1"/>
+</segment>
+<segment id="119" name="seg_119">
+    <proximal x="262.6658" y="98.92043" z="42.28855" diameter="1"/>
+    <distal x="263.5478" y="98.56612" z="42.59913" diameter="1"/>
+</segment>
+<segment id="120" name="seg_120">
+    <proximal x="263.3761" y="98.8259" z="42.30874" diameter="1"/>
+    <distal x="264.2582" y="98.4716" z="42.61932" diameter="1"/>
+</segment>
+<segment id="121" name="seg_121">
+    <proximal x="268.9921" y="98.60293" z="42.67095" diameter="1"/>
+    <distal x="269.341" y="97.73498" z="42.31753" diameter="1"/>
+</segment>
+<segment id="122" name="seg_122">
+    <proximal x="298.1068" y="100.8891" z="43.1205" diameter="1"/>
+    <distal x="298.6368" y="101.7319" z="43.02744" diameter="1"/>
+</segment>
+<segment id="123" name="seg_123">
+    <proximal x="349.6894" y="99.44463" z="41.55936" diameter="1"/>
+    <distal x="350.5225" y="99.93761" z="41.30849" diameter="1"/>
+</segment>
+<segment id="124" name="seg_124">
+    <proximal x="350.2528" y="99.45553" z="41.40242" diameter="1"/>
+    <distal x="351.0859" y="99.94851" z="41.15155" diameter="1"/>
+</segment>
+<segment id="125" name="seg_125">
+    <proximal x="267.3748" y="99.04377" z="42.72111" diameter="1"/>
+    <distal x="268.1494" y="98.76649" z="42.15268" diameter="1"/>
+</segment>
+<segment id="126" name="seg_126">
+    <proximal x="268.0249" y="98.99393" z="42.71878" diameter="1"/>
+    <distal x="268.7995" y="98.71665" z="42.15034" diameter="1"/>
+</segment>
+<segment id="127" name="seg_127">
+    <proximal x="351.1034" y="100.0563" z="41.10477" diameter="1"/>
+    <distal x="351.9218" y="100.6034" z="40.92875" diameter="1"/>
+</segment>
+<segment id="128" name="seg_128">
+    <proximal x="351.909" y="100.6797" z="40.94928" diameter="1"/>
+    <distal x="352.7273" y="101.2268" z="40.77326" diameter="1"/>
+</segment>
+<segment id="129" name="seg_129">
+    <proximal x="272.9633" y="100.272" z="41.79751" diameter="1"/>
+    <distal x="273.91" y="100.2701" z="42.11968" diameter="1"/>
+</segment>
+<segment id="130" name="seg_130">
+    <proximal x="273.8289" y="99.94402" z="41.93047" diameter="1"/>
+    <distal x="274.4136" y="100.7493" z="41.83217" diameter="1"/>
+</segment>
+<segment id="131" name="seg_131">
+    <proximal x="352.6979" y="101.3517" z="40.92491" diameter="1"/>
+    <distal x="353.551" y="101.8154" z="40.68562" diameter="1"/>
+</segment>
+<segment id="132" name="seg_132">
+    <proximal x="355.4584" y="102.2911" z="40.2549" diameter="1"/>
+    <distal x="354.7313" y="102.0232" z="40.88703" diameter="1"/>
+</segment>
+<segment id="133" name="seg_133">
+    <proximal x="300.2164" y="91.4848" z="44.4392" diameter="1"/>
+    <distal x="301.1862" y="91.35649" z="44.64666" diameter="1"/>
+</segment>
+<segment id="134" name="seg_134">
+    <proximal x="295.2902" y="91.4624" z="44.32509" diameter="1"/>
+    <distal x="295.954" y="92.17163" z="44.08767" diameter="1"/>
+</segment>
+<segment id="135" name="seg_135">
+    <proximal x="296.0572" y="91.95898" z="44.38544" diameter="1"/>
+    <distal x="296.998" y="91.6759" z="44.19871" diameter="1"/>
+</segment>
+<segment id="136" name="seg_136">
+    <proximal x="298.0363" y="91.95225" z="44.34271" diameter="1"/>
+    <distal x="299.004" y="91.80681" z="44.54897" diameter="1"/>
+</segment>
+<segment id="137" name="seg_137">
+    <proximal x="266.5126" y="90.74757" z="43.58126" diameter="1"/>
+    <distal x="266.965" y="91.63425" z="43.4857" diameter="1"/>
+</segment>
+<segment id="138" name="seg_138">
+    <proximal x="294.8714" y="92.89111" z="43.99678" diameter="1"/>
+    <distal x="294.8062" y="91.96727" z="44.37396" diameter="1"/>
+</segment>
+<segment id="139" name="seg_139">
+    <proximal x="302.9153" y="93.47056" z="44.25602" diameter="1"/>
+    <distal x="302.7266" y="92.65548" z="44.80378" diameter="1"/>
+</segment>
+<segment id="140" name="seg_140">
+    <proximal x="266.4458" y="91.30119" z="43.61898" diameter="1"/>
+    <distal x="266.8982" y="92.18786" z="43.52342" diameter="1"/>
+</segment>
+<segment id="141" name="seg_141">
+    <proximal x="295.4554" y="93.49646" z="44.17148" diameter="1"/>
+    <distal x="295.9785" y="92.68814" z="44.44163" diameter="1"/>
+</segment>
+<segment id="142" name="seg_142">
+    <proximal x="302.9678" y="94.30329" z="44.33589" diameter="1"/>
+    <distal x="302.8312" y="93.34851" z="44.59997" diameter="1"/>
+</segment>
+<segment id="143" name="seg_143">
+    <proximal x="266.4077" y="92.69662" z="43.84934" diameter="1"/>
+    <distal x="266.832" y="91.93666" z="43.35694" diameter="1"/>
+</segment>
+<segment id="144" name="seg_144">
+    <proximal x="289.71" y="93.31579" z="43.71737" diameter="1"/>
+    <distal x="290.6308" y="93.68868" z="43.83182" diameter="1"/>
+</segment>
+<segment id="145" name="seg_145">
+    <proximal x="303.1347" y="95.09807" z="44.44136" diameter="1"/>
+    <distal x="302.8532" y="94.14224" z="44.35693" diameter="1"/>
+</segment>
+<segment id="146" name="seg_146">
+    <proximal x="303.0934" y="94.96665" z="44.16441" diameter="1"/>
+    <distal x="303.0825" y="95.93047" z="44.43072" diameter="1"/>
+</segment>
+<segment id="147" name="seg_147">
+    <proximal x="263.7708" y="93.67335" z="43.7592" diameter="1"/>
+    <distal x="264.7555" y="93.50053" z="43.73584" diameter="1"/>
+</segment>
+<segment id="148" name="seg_148">
+    <proximal x="264.577" y="93.74563" z="43.62394" diameter="1"/>
+    <distal x="265.4779" y="93.35631" z="43.81593" diameter="1"/>
+</segment>
+<segment id="149" name="seg_149">
+    <proximal x="268.7036" y="93.98634" z="43.33153" diameter="1"/>
+    <distal x="268.2396" y="93.24351" z="43.81419" diameter="1"/>
+</segment>
+<segment id="150" name="seg_150">
+    <proximal x="262.1968" y="94.42553" z="43.98286" diameter="1"/>
+    <distal x="263.0993" y="94.3395" z="43.56075" diameter="1"/>
+</segment>
+<segment id="151" name="seg_151">
+    <proximal x="262.9722" y="94.44777" z="43.87224" diameter="1"/>
+    <distal x="263.9098" y="94.16883" z="43.66488" diameter="1"/>
+</segment>
+<segment id="152" name="seg_152">
+    <proximal x="265.95" y="94.53751" z="43.46433" diameter="1"/>
+    <distal x="265.4253" y="93.83485" z="43.94486" diameter="1"/>
+</segment>
+<segment id="153" name="seg_153">
+    <proximal x="268.4253" y="94.63805" z="43.31878" diameter="1"/>
+    <distal x="268.3642" y="93.80234" z="43.86454" diameter="1"/>
+</segment>
+<segment id="154" name="seg_154">
+    <proximal x="297.1277" y="97.56382" z="44.17161" diameter="1"/>
+    <distal x="297.4136" y="96.68029" z="44.5426" diameter="1"/>
+</segment>
+<segment id="155" name="seg_155">
+    <proximal x="297.8226" y="97.39519" z="44.21084" diameter="1"/>
+    <distal x="298.7792" y="97.28934" z="44.48227" diameter="1"/>
+</segment>
+<segment id="156" name="seg_156">
+    <proximal x="300.0579" y="97.84461" z="43.9084" diameter="1"/>
+    <distal x="300.8106" y="97.69776" z="44.55018" diameter="1"/>
+</segment>
+<segment id="157" name="seg_157">
+    <proximal x="265.0835" y="96.53891" z="43.81171" diameter="1"/>
+    <distal x="265.7986" y="95.91509" z="43.4964" diameter="1"/>
+</segment>
+<segment id="158" name="seg_158">
+    <proximal x="264.993" y="97.23794" z="43.75533" diameter="1"/>
+    <distal x="265.722" y="96.64207" z="43.41852" diameter="1"/>
+</segment>
+<segment id="159" name="seg_159">
+    <proximal x="347.2215" y="98.26488" z="43.62848" diameter="1"/>
+    <distal x="347.9394" y="98.62471" z="43.03255" diameter="1"/>
+</segment>
+<segment id="160" name="seg_160">
+    <proximal x="347.8287" y="98.3086" z="43.50324" diameter="1"/>
+    <distal x="348.5258" y="98.65864" z="42.87753" diameter="1"/>
+</segment>
+<segment id="161" name="seg_161">
+    <proximal x="264.2801" y="98.04484" z="43.30899" diameter="1"/>
+    <distal x="264.909" y="97.36381" z="43.68419" diameter="1"/>
+</segment>
+<segment id="162" name="seg_162">
+    <proximal x="267.4693" y="97.97842" z="43.49699" diameter="1"/>
+    <distal x="267.1246" y="97.03969" z="43.49881" diameter="1"/>
+</segment>
+<segment id="163" name="seg_163">
+    <proximal x="266.9235" y="97.80029" z="43.5741" diameter="1"/>
+    <distal x="267.4847" y="98.57569" z="43.28457" diameter="1"/>
+</segment>
+<segment id="164" name="seg_164">
+    <proximal x="279.6597" y="80.90578" z="43.12984" diameter="1"/>
+    <distal x="279.6174" y="80.26982" z="43.9004" diameter="1"/>
+</segment>
+<segment id="165" name="seg_165">
+    <proximal x="279.6582" y="81.53092" z="43.92537" diameter="1"/>
+    <distal x="279.6316" y="80.9523" z="43.11021" diameter="1"/>
+</segment>
+<segment id="166" name="seg_166">
+    <proximal x="301.5947" y="91.20096" z="45.00965" diameter="1"/>
+    <distal x="301.7225" y="90.37535" z="45.55923" diameter="1"/>
+</segment>
+<segment id="167" name="seg_167">
+    <proximal x="294.6598" y="91.57149" z="44.55106" diameter="1"/>
+    <distal x="294.8353" y="90.74992" z="45.09349" diameter="1"/>
+</segment>
+<segment id="168" name="seg_168">
+    <proximal x="299.1534" y="91.51065" z="45.03721" diameter="1"/>
+    <distal x="299.9217" y="90.95999" z="45.36342" diameter="1"/>
+</segment>
+<segment id="169" name="seg_169">
+    <proximal x="302.8508" y="91.93977" z="45.43123" diameter="1"/>
+    <distal x="302.3417" y="91.11365" z="45.18965" diameter="1"/>
+</segment>
+<segment id="170" name="seg_170">
+    <proximal x="303.0591" y="91.77682" z="45.14222" diameter="1"/>
+    <distal x="303.9666" y="91.4856" z="45.44509" diameter="1"/>
+</segment>
+<segment id="171" name="seg_171">
+    <proximal x="265.6895" y="90.31506" z="44.63013" diameter="1"/>
+    <distal x="266.3069" y="90.77986" z="43.99547" diameter="1"/>
+</segment>
+<segment id="172" name="seg_172">
+    <proximal x="302.4683" y="92.66284" z="45.2011" diameter="1"/>
+    <distal x="302.7402" y="91.72397" z="45.41235" diameter="1"/>
+</segment>
+<segment id="173" name="seg_173">
+    <proximal x="267.5195" y="92.61197" z="44.62524" diameter="1"/>
+    <distal x="266.9687" y="91.92733" z="44.14778" diameter="1"/>
+</segment>
+<segment id="174" name="seg_174">
+    <proximal x="265.3278" y="92.97218" z="44.54961" diameter="1"/>
+    <distal x="266.2633" y="92.65606" z="44.3917" diameter="1"/>
+</segment>
+<segment id="175" name="seg_175">
+    <proximal x="267.5122" y="92.52746" z="44.48952" diameter="1"/>
+    <distal x="268.1712" y="93.25896" z="44.31442" diameter="1"/>
+</segment>
+<segment id="176" name="seg_176">
+    <proximal x="301.6566" y="96.29846" z="45.40484" diameter="1"/>
+    <distal x="302.2718" y="95.73243" z="44.85614" diameter="1"/>
+</segment>
+<segment id="177" name="seg_177">
+    <proximal x="303.8268" y="95.68512" z="44.62373" diameter="1"/>
+    <distal x="303.8438" y="96.46718" z="45.2467" diameter="1"/>
+</segment>
+<segment id="178" name="seg_178">
+    <proximal x="261.3747" y="94.77513" z="44.39336" diameter="1"/>
+    <distal x="260.9201" y="93.95668" z="44.74472" diameter="1"/>
+</segment>
+<segment id="179" name="seg_179">
+    <proximal x="261.6204" y="94.60565" z="44.35401" diameter="1"/>
+    <distal x="262.2521" y="93.97442" z="44.80397" diameter="1"/>
+</segment>
+<segment id="180" name="seg_180">
+    <proximal x="261.5393" y="95.27249" z="44.72484" diameter="1"/>
+    <distal x="262.2673" y="94.66431" z="44.40851" diameter="1"/>
+</segment>
+<segment id="181" name="seg_181">
+    <proximal x="299.8538" y="97.57034" z="44.76759" diameter="1"/>
+    <distal x="300.6065" y="97.42349" z="45.40936" diameter="1"/>
+</segment>
+<segment id="182" name="seg_182">
+    <proximal x="259.9038" y="95.90472" z="44.65376" diameter="1"/>
+    <distal x="260.8404" y="95.71798" z="44.35722" diameter="1"/>
+</segment>
+<segment id="183" name="seg_183">
+    <proximal x="260.8077" y="96.11382" z="44.50768" diameter="1"/>
+    <distal x="261.454" y="95.35151" z="44.54326" diameter="1"/>
+</segment>
+<segment id="184" name="seg_184">
+    <proximal x="344.5192" y="96.86762" z="45.01777" diameter="1"/>
+    <distal x="345.3332" y="97.31169" z="44.64347" diameter="1"/>
+</segment>
+<segment id="185" name="seg_185">
+    <proximal x="345.132" y="96.94732" z="45.03139" diameter="1"/>
+    <distal x="345.907" y="97.36144" z="44.55396" diameter="1"/>
+</segment>
+<segment id="186" name="seg_186">
+    <proximal x="346.1056" y="97.61483" z="44.78646" diameter="1"/>
+    <distal x="346.9019" y="98.00495" z="44.32407" diameter="1"/>
+</segment>
+<segment id="187" name="seg_187">
+    <proximal x="285.0989" y="78.96288" z="44.28824" diameter="1"/>
+    <distal x="285.4898" y="78.07728" z="44.53907" diameter="1"/>
+</segment>
+<segment id="188" name="seg_188">
+    <proximal x="279.8084" y="79.57815" z="44.47604" diameter="1"/>
+    <distal x="280.5786" y="78.94071" z="44.45456" diameter="1"/>
+</segment>
+<segment id="189" name="seg_189">
+    <proximal x="280.2638" y="79.25313" z="44.46082" diameter="1"/>
+    <distal x="281.2635" y="79.27162" z="44.47345" diameter="1"/>
+</segment>
+<segment id="190" name="seg_190">
+    <proximal x="280.8631" y="79.09013" z="44.455" diameter="1"/>
+    <distal x="281.8022" y="79.4329" z="44.48238" diameter="1"/>
+</segment>
+<segment id="191" name="seg_191">
+    <proximal x="285.1682" y="79.70307" z="44.5156" diameter="1"/>
+    <distal x="285.4393" y="78.74358" z="44.43898" diameter="1"/>
+</segment>
+<segment id="192" name="seg_192">
+    <proximal x="279.3607" y="80.29133" z="44.66222" diameter="1"/>
+    <distal x="279.8835" y="79.51713" z="44.30544" diameter="1"/>
+</segment>
+<segment id="193" name="seg_193">
+    <proximal x="281.5253" y="79.71121" z="44.34027" diameter="1"/>
+    <distal x="282.3436" y="80.16364" z="44.69475" diameter="1"/>
+</segment>
+<segment id="194" name="seg_194">
+    <proximal x="282.9177" y="80.06862" z="44.76636" diameter="1"/>
+    <distal x="282.0871" y="79.80319" z="44.27674" diameter="1"/>
+</segment>
+<segment id="195" name="seg_195">
+    <proximal x="283.7567" y="79.89072" z="44.77852" diameter="1"/>
+    <distal x="284.626" y="79.95042" z="44.28783" diameter="1"/>
+</segment>
+<segment id="196" name="seg_196">
+    <proximal x="284.8849" y="80.39512" z="44.56282" diameter="1"/>
+    <distal x="284.6152" y="79.43354" z="44.51155" diameter="1"/>
+</segment>
+<segment id="197" name="seg_197">
+    <proximal x="278.0004" y="80.5032" z="44.72223" diameter="1"/>
+    <distal x="278.8767" y="80.44401" z="44.2442" diameter="1"/>
+</segment>
+<segment id="198" name="seg_198">
+    <proximal x="278.6591" y="80.71891" z="44.24112" diameter="1"/>
+    <distal x="279.4113" y="80.30729" z="44.75573" diameter="1"/>
+</segment>
+<segment id="199" name="seg_199">
+    <proximal x="280.2276" y="80.63292" z="44.02186" diameter="1"/>
+    <distal x="280.1857" y="80.52235" z="45.01485" diameter="1"/>
+</segment>
+<segment id="200" name="seg_200">
+    <proximal x="285.4404" y="81.07155" z="44.59965" diameter="1"/>
+    <distal x="285.1707" y="80.10997" z="44.54839" diameter="1"/>
+</segment>
+<segment id="201" name="seg_201">
+    <proximal x="279.3682" y="81.49759" z="44.65533" diameter="1"/>
+    <distal x="278.7114" y="80.80327" z="44.36133" diameter="1"/>
+</segment>
+<segment id="202" name="seg_202">
+    <proximal x="280.2122" y="81.29912" z="44.02811" diameter="1"/>
+    <distal x="280.2179" y="81.16799" z="45.01946" diameter="1"/>
+</segment>
+<segment id="203" name="seg_203">
+    <proximal x="285.2442" y="81.76735" z="44.59545" diameter="1"/>
+    <distal x="285.3492" y="80.77293" z="44.58529" diameter="1"/>
+</segment>
+<segment id="204" name="seg_204">
+    <proximal x="279.651" y="81.88163" z="44.01496" diameter="1"/>
+    <distal x="279.6228" y="81.7876" z="45.01013" diameter="1"/>
+</segment>
+<segment id="205" name="seg_205">
+    <proximal x="284.6128" y="82.43601" z="44.72242" diameter="1"/>
+    <distal x="284.8627" y="81.50837" z="44.44488" diameter="1"/>
+</segment>
+<segment id="206" name="seg_206">
+    <proximal x="284.5788" y="83.10767" z="44.70754" diameter="1"/>
+    <distal x="284.8287" y="82.18002" z="44.43001" diameter="1"/>
+</segment>
+<segment id="207" name="seg_207">
+    <proximal x="295.4018" y="86.60837" z="45.08899" diameter="1"/>
+    <distal x="295.9857" y="85.79779" z="45.13404" diameter="1"/>
+</segment>
+<segment id="208" name="seg_208">
+    <proximal x="296.2018" y="87.40916" z="45.43829" diameter="1"/>
+    <distal x="296.8718" y="88.12796" z="45.2526" diameter="1"/>
+</segment>
+<segment id="209" name="seg_209">
+    <proximal x="265.3349" y="87.76231" z="44.62206" diameter="1"/>
+    <distal x="265.2948" y="86.82087" z="44.95685" diameter="1"/>
+</segment>
+<segment id="210" name="seg_210">
+    <proximal x="296.089" y="88.58568" z="45.40349" diameter="1"/>
+    <distal x="296.9102" y="88.01507" z="45.40958" diameter="1"/>
+</segment>
+<segment id="211" name="seg_211">
+    <proximal x="265.4197" y="88.29664" z="44.90408" diameter="1"/>
+    <distal x="265.1693" y="87.33406" z="44.80044" diameter="1"/>
+</segment>
+<segment id="212" name="seg_212">
+    <proximal x="268.7042" y="88.41147" z="44.61714" diameter="1"/>
+    <distal x="268.8835" y="87.47817" z="44.92832" diameter="1"/>
+</segment>
+<segment id="213" name="seg_213">
+    <proximal x="296.052" y="89.11412" z="45.4542" diameter="1"/>
+    <distal x="296.8732" y="88.54352" z="45.46029" diameter="1"/>
+</segment>
+<segment id="214" name="seg_214">
+    <proximal x="297.0237" y="88.65937" z="45.48951" diameter="1"/>
+    <distal x="297.9725" y="88.95067" z="45.61127" diameter="1"/>
+</segment>
+<segment id="215" name="seg_215">
+    <proximal x="298.1121" y="88.75763" z="45.60636" diameter="1"/>
+    <distal x="299.1036" y="88.83619" z="45.70924" diameter="1"/>
+</segment>
+<segment id="216" name="seg_216">
+    <proximal x="299.2325" y="88.71956" z="45.71794" diameter="1"/>
+    <distal x="300.21" y="88.90561" z="45.81664" diameter="1"/>
+</segment>
+<segment id="217" name="seg_217">
+    <proximal x="264.7671" y="88.33967" z="44.92322" diameter="1"/>
+    <distal x="265.767" y="88.33994" z="44.91021" diameter="1"/>
+</segment>
+<segment id="218" name="seg_218">
+    <proximal x="268.9337" y="88.93962" z="44.85485" diameter="1"/>
+    <distal x="268.6136" y="87.99523" z="44.77975" diameter="1"/>
+</segment>
+<segment id="219" name="seg_219">
+    <proximal x="295.2695" y="89.83393" z="45.4743" diameter="1"/>
+    <distal x="295.7575" y="88.96298" z="45.4166" diameter="1"/>
+</segment>
+<segment id="220" name="seg_220">
+    <proximal x="300.331" y="89.09342" z="45.9436" diameter="1"/>
+    <distal x="301.0887" y="89.73917" z="45.84934" diameter="1"/>
+</segment>
+<segment id="221" name="seg_221">
+    <proximal x="301.4602" y="89.85127" z="45.68013" diameter="1"/>
+    <distal x="301.881" y="89.13378" z="46.2352" diameter="1"/>
+</segment>
+<segment id="222" name="seg_222">
+    <proximal x="264.0271" y="88.94908" z="45.18346" diameter="1"/>
+    <distal x="264.9017" y="88.7151" z="44.75886" diameter="1"/>
+</segment>
+<segment id="223" name="seg_223">
+    <proximal x="264.7497" y="88.84693" z="44.9732" diameter="1"/>
+    <distal x="265.7488" y="88.88872" z="44.96465" diameter="1"/>
+</segment>
+<segment id="224" name="seg_224">
+    <proximal x="265.5108" y="88.87425" z="44.96743" diameter="1"/>
+    <distal x="266.51" y="88.9081" z="44.947" diameter="1"/>
+</segment>
+<segment id="225" name="seg_225">
+    <proximal x="266.2438" y="88.89707" z="44.95306" diameter="1"/>
+    <distal x="267.2428" y="88.93402" z="44.92768" diameter="1"/>
+</segment>
+<segment id="226" name="seg_226">
+    <proximal x="266.9295" y="88.91887" z="44.93633" diameter="1"/>
+    <distal x="267.9281" y="88.96084" z="44.90498" diameter="1"/>
+</segment>
+<segment id="227" name="seg_227">
+    <proximal x="267.6788" y="89.23949" z="44.93864" diameter="1"/>
+    <distal x="268.5239" y="88.71164" z="44.85402" diameter="1"/>
+</segment>
+<segment id="228" name="seg_228">
+    <proximal x="268.8999" y="89.47691" z="44.90952" diameter="1"/>
+    <distal x="268.5797" y="88.53252" z="44.83442" diameter="1"/>
+</segment>
+<segment id="229" name="seg_229">
+    <proximal x="295.2576" y="90.35628" z="45.41744" diameter="1"/>
+    <distal x="295.7872" y="89.53017" z="45.6101" diameter="1"/>
+</segment>
+<segment id="230" name="seg_230">
+    <proximal x="301.3943" y="90.42995" z="45.71418" diameter="1"/>
+    <distal x="301.8151" y="89.71246" z="46.26925" diameter="1"/>
+</segment>
+<segment id="231" name="seg_231">
+    <proximal x="264.7336" y="89.35157" z="45.03107" diameter="1"/>
+    <distal x="265.7312" y="89.4201" z="45.0253" diameter="1"/>
+</segment>
+<segment id="232" name="seg_232">
+    <proximal x="269.4946" y="90.04603" z="44.93903" diameter="1"/>
+    <distal x="269.1744" y="89.10164" z="44.86393" diameter="1"/>
+</segment>
+<segment id="233" name="seg_233">
+    <proximal x="295.4985" y="90.92676" z="45.32052" diameter="1"/>
+    <distal x="295.5802" y="90.06296" z="45.81768" diameter="1"/>
+</segment>
+<segment id="234" name="seg_234">
+    <proximal x="304.6524" y="91.37595" z="45.7253" diameter="1"/>
+    <distal x="305.2281" y="90.73229" z="46.22949" diameter="1"/>
+</segment>
+<segment id="235" name="seg_235">
+    <proximal x="265.1313" y="89.42919" z="45.1315" diameter="1"/>
+    <distal x="265.2911" y="90.40959" z="45.0163" diameter="1"/>
+</segment>
+<segment id="236" name="seg_236">
+    <proximal x="303.7396" y="91.71579" z="45.86278" diameter="1"/>
+    <distal x="304.6471" y="91.42456" z="46.16565" diameter="1"/>
+</segment>
+<segment id="237" name="seg_237">
+    <proximal x="261.4933" y="90.61677" z="45.1106" diameter="1"/>
+    <distal x="262.4353" y="90.29327" z="45.20082" diameter="1"/>
+</segment>
+<segment id="238" name="seg_238">
+    <proximal x="262.549" y="90.82811" z="44.94807" diameter="1"/>
+    <distal x="263.0257" y="90.05665" z="45.36949" diameter="1"/>
+</segment>
+<segment id="239" name="seg_239">
+    <proximal x="260.9741" y="91.52999" z="45.14423" diameter="1"/>
+    <distal x="261.341" y="90.60804" z="45.26812" diameter="1"/>
+</segment>
+<segment id="240" name="seg_240">
+    <proximal x="263.1501" y="90.74797" z="45.28452" diameter="1"/>
+    <distal x="264.0025" y="91.24303" z="45.11624" diameter="1"/>
+</segment>
+<segment id="241" name="seg_241">
+    <proximal x="264.9199" y="91.41678" z="45.31483" diameter="1"/>
+    <distal x="265.3718" y="90.57376" z="45.02303" diameter="1"/>
+</segment>
+<segment id="242" name="seg_242">
+    <proximal x="302.3656" y="92.98628" z="46.46334" diameter="1"/>
+    <distal x="302.5395" y="92.48134" z="45.6179" diameter="1"/>
+</segment>
+<segment id="243" name="seg_243">
+    <proximal x="260.9154" y="92.07456" z="45.3314" diameter="1"/>
+    <distal x="261.4638" y="91.24731" z="45.2092" diameter="1"/>
+</segment>
+<segment id="244" name="seg_244">
+    <proximal x="264.1775" y="92.02388" z="45.2732" diameter="1"/>
+    <distal x="264.5235" y="91.08942" z="45.18894" diameter="1"/>
+</segment>
+<segment id="245" name="seg_245">
+    <proximal x="260.2449" y="92.79598" z="45.33214" diameter="1"/>
+    <distal x="260.5757" y="91.85385" z="45.27742" diameter="1"/>
+</segment>
+<segment id="246" name="seg_246">
+    <proximal x="265.4311" y="92.45839" z="45.13907" diameter="1"/>
+    <distal x="264.7089" y="91.80835" z="45.37533" diameter="1"/>
+</segment>
+<segment id="247" name="seg_247">
+    <proximal x="260.2043" y="93.39692" z="45.3554" diameter="1"/>
+    <distal x="260.6885" y="92.52266" z="45.31978" diameter="1"/>
+</segment>
+<segment id="248" name="seg_248">
+    <proximal x="262.9012" y="93.2489" z="45.17707" diameter="1"/>
+    <distal x="262.5992" y="92.35104" z="45.49751" diameter="1"/>
+</segment>
+<segment id="249" name="seg_249">
+    <proximal x="304.3485" y="95.32904" z="45.33209" diameter="1"/>
+    <distal x="304.4642" y="94.85049" z="46.2025" diameter="1"/>
+</segment>
+<segment id="250" name="seg_250">
+    <proximal x="259.4129" y="94.07852" z="45.34797" diameter="1"/>
+    <distal x="259.9867" y="93.25954" z="45.34983" diameter="1"/>
+</segment>
+<segment id="251" name="seg_251">
+    <proximal x="260.6351" y="94.04389" z="45.18819" diameter="1"/>
+    <distal x="260.2855" y="93.1705" z="45.52717" diameter="1"/>
+</segment>
+<segment id="252" name="seg_252">
+    <proximal x="262.7738" y="93.80697" z="45.03466" diameter="1"/>
+    <distal x="262.7191" y="93.0658" z="45.70376" diameter="1"/>
+</segment>
+<segment id="253" name="seg_253">
+    <proximal x="340.3842" y="95.21162" z="46.24044" diameter="1"/>
+    <distal x="341.3146" y="95.29352" z="45.88313" diameter="1"/>
+</segment>
+<segment id="254" name="seg_254">
+    <proximal x="341.4505" y="95.21918" z="46.12151" diameter="1"/>
+    <distal x="342.3934" y="95.47273" z="45.90571" diameter="1"/>
+</segment>
+<segment id="255" name="seg_255">
+    <proximal x="341.9811" y="95.26735" z="46.1046" diameter="1"/>
+    <distal x="342.9241" y="95.5209" z="45.8888" diameter="1"/>
+</segment>
+<segment id="256" name="seg_256">
+    <proximal x="258.6881" y="94.80936" z="45.33395" diameter="1"/>
+    <distal x="259.2619" y="93.99037" z="45.33582" diameter="1"/>
+</segment>
+<segment id="257" name="seg_257">
+    <proximal x="300.4614" y="96.74014" z="45.75582" diameter="1"/>
+    <distal x="301.2567" y="96.25925" z="46.12495" diameter="1"/>
+</segment>
+<segment id="258" name="seg_258">
+    <proximal x="302.334" y="96.78227" z="45.9999" diameter="1"/>
+    <distal x="303.207" y="96.54638" z="45.57301" diameter="1"/>
+</segment>
+<segment id="259" name="seg_259">
+    <proximal x="342.7455" y="95.72716" z="46.03251" diameter="1"/>
+    <distal x="343.615" y="96.13864" z="45.75926" diameter="1"/>
+</segment>
+<segment id="260" name="seg_260">
+    <proximal x="259.8134" y="95.45358" z="45.18193" diameter="1"/>
+    <distal x="259.6456" y="94.52523" z="45.51358" diameter="1"/>
+</segment>
+<segment id="261" name="seg_261">
+    <proximal x="344.3817" y="96.7425" z="45.59852" diameter="1"/>
+    <distal x="343.5828" y="96.2631" z="45.96173" diameter="1"/>
+</segment>
+<segment id="262" name="seg_262">
+    <proximal x="275.004" y="75.28127" z="45.07942" diameter="1"/>
+    <distal x="275.9422" y="75.58456" z="45.24637" diameter="1"/>
+</segment>
+<segment id="263" name="seg_263">
+    <proximal x="278.0754" y="76.23137" z="45.35346" diameter="1"/>
+    <distal x="278.8604" y="76.76545" z="45.03953" diameter="1"/>
+</segment>
+<segment id="264" name="seg_264">
+    <proximal x="279.3545" y="77.54219" z="45.41299" diameter="1"/>
+    <distal x="278.7186" y="76.82254" z="45.13403" diameter="1"/>
+</segment>
+<segment id="265" name="seg_265">
+    <proximal x="285.5407" y="77.09528" z="44.96692" diameter="1"/>
+    <distal x="286.3512" y="76.86512" z="45.50554" diameter="1"/>
+</segment>
+<segment id="266" name="seg_266">
+    <proximal x="279.7415" y="78.25536" z="45.07808" diameter="1"/>
+    <distal x="279.4653" y="77.43829" z="45.58418" diameter="1"/>
+</segment>
+<segment id="267" name="seg_267">
+    <proximal x="285.4208" y="78.03271" z="44.98235" diameter="1"/>
+    <distal x="285.3175" y="77.33236" z="45.68864" diameter="1"/>
+</segment>
+<segment id="268" name="seg_268">
+    <proximal x="279.7415" y="78.91873" z="45.14303" diameter="1"/>
+    <distal x="279.4654" y="78.10167" z="45.64914" diameter="1"/>
+</segment>
+<segment id="269" name="seg_269">
+    <proximal x="283.554" y="80.24279" z="45.34855" diameter="1"/>
+    <distal x="283.7964" y="79.35798" z="45.74652" diameter="1"/>
+</segment>
+<segment id="270" name="seg_270">
+    <proximal x="277.4868" y="80.13928" z="45.77441" diameter="1"/>
+    <distal x="278.1191" y="80.55465" z="45.12044" diameter="1"/>
+</segment>
+<segment id="271" name="seg_271">
+    <proximal x="279.5972" y="80.18521" z="45.06379" diameter="1"/>
+    <distal x="279.6049" y="80.73275" z="45.90054" diameter="1"/>
+</segment>
+<segment id="272" name="seg_272">
+    <proximal x="282.8531" y="80.81677" z="45.84307" diameter="1"/>
+    <distal x="283.3736" y="80.15808" z="45.29977" diameter="1"/>
+</segment>
+<segment id="273" name="seg_273">
+    <proximal x="279.6345" y="81.41795" z="45.13069" diameter="1"/>
+    <distal x="279.5737" y="80.75837" z="45.87986" diameter="1"/>
+</segment>
+<segment id="274" name="seg_274">
+    <proximal x="282.8586" y="81.49456" z="45.85882" diameter="1"/>
+    <distal x="283.3791" y="80.83587" z="45.31552" diameter="1"/>
+</segment>
+<segment id="275" name="seg_275">
+    <proximal x="285.0894" y="83.4933" z="45.42056" diameter="1"/>
+    <distal x="284.3724" y="82.84639" z="45.68024" diameter="1"/>
+</segment>
+<segment id="276" name="seg_276">
+    <proximal x="296.5391" y="85.71729" z="45.63568" diameter="1"/>
+    <distal x="297.0869" y="85.22209" z="46.31" diameter="1"/>
+</segment>
+<segment id="277" name="seg_277">
+    <proximal x="304.7216" y="85.88101" z="46.77757" diameter="1"/>
+    <distal x="305.5757" y="86.39616" z="46.70689" diameter="1"/>
+</segment>
+<segment id="278" name="seg_278">
+    <proximal x="265.5683" y="85.82405" z="45.25997" diameter="1"/>
+    <distal x="266.3486" y="85.31641" z="45.62523" diameter="1"/>
+</segment>
+<segment id="279" name="seg_279">
+    <proximal x="294.7561" y="87.1116" z="45.70584" diameter="1"/>
+    <distal x="294.6252" y="86.20197" z="46.10013" diameter="1"/>
+</segment>
+<segment id="280" name="seg_280">
+    <proximal x="303.4911" y="87.31598" z="46.59885" diameter="1"/>
+    <distal x="303.2137" y="86.39515" z="46.87293" diameter="1"/>
+</segment>
+<segment id="281" name="seg_281">
+    <proximal x="265.3706" y="86.45428" z="45.23382" diameter="1"/>
+    <distal x="265.0361" y="85.67733" z="45.76717" diameter="1"/>
+</segment>
+<segment id="282" name="seg_282">
+    <proximal x="268.267" y="86.61083" z="45.27824" diameter="1"/>
+    <distal x="267.8413" y="85.79791" z="45.67567" diameter="1"/>
+</segment>
+<segment id="283" name="seg_283">
+    <proximal x="295.2522" y="86.78657" z="46.06944" diameter="1"/>
+    <distal x="295.918" y="87.5221" z="45.94377" diameter="1"/>
+</segment>
+<segment id="284" name="seg_284">
+    <proximal x="303.4879" y="87.84429" z="46.60787" diameter="1"/>
+    <distal x="303.2105" y="86.92346" z="46.88196" diameter="1"/>
+</segment>
+<segment id="285" name="seg_285">
+    <proximal x="265.1112" y="87.08308" z="45.39951" diameter="1"/>
+    <distal x="265.2986" y="86.15626" z="45.72489" diameter="1"/>
+</segment>
+<segment id="286" name="seg_286">
+    <proximal x="268.13" y="87.18397" z="45.296" diameter="1"/>
+    <distal x="267.9812" y="86.31197" z="45.76237" diameter="1"/>
+</segment>
+<segment id="287" name="seg_287">
+    <proximal x="303.1761" y="88.37604" z="46.75641" diameter="1"/>
+    <distal x="303.5067" y="87.43225" z="46.7509" diameter="1"/>
+</segment>
+<segment id="288" name="seg_288">
+    <proximal x="268.8743" y="87.74326" z="45.38151" diameter="1"/>
+    <distal x="268.5332" y="86.86537" z="45.71761" diameter="1"/>
+</segment>
+<segment id="289" name="seg_289">
+    <proximal x="303.2962" y="87.97701" z="46.59355" diameter="1"/>
+    <distal x="303.3619" y="88.91561" z="46.93222" diameter="1"/>
+</segment>
+<segment id="290" name="seg_290">
+    <proximal x="302.1186" y="89.09216" z="46.5119" diameter="1"/>
+    <distal x="302.9225" y="88.7203" z="46.97616" diameter="1"/>
+</segment>
+<segment id="291" name="seg_291">
+    <proximal x="305.0422" y="90.12582" z="46.62409" diameter="1"/>
+    <distal x="304.4626" y="89.36135" z="46.90621" diameter="1"/>
+</segment>
+<segment id="292" name="seg_292">
+    <proximal x="305.5663" y="90.82156" z="46.4515" diameter="1"/>
+    <distal x="305.3964" y="89.97968" z="46.96374" diameter="1"/>
+</segment>
+<segment id="293" name="seg_293">
+    <proximal x="263.11" y="89.41543" z="45.93717" diameter="1"/>
+    <distal x="264.0069" y="89.03503" z="45.71142" diameter="1"/>
+</segment>
+<segment id="294" name="seg_294">
+    <proximal x="259.2982" y="89.39471" z="45.93961" diameter="1"/>
+    <distal x="259.8346" y="90.19174" z="45.66206" diameter="1"/>
+</segment>
+<segment id="295" name="seg_295">
+    <proximal x="259.9266" y="89.56203" z="45.9776" diameter="1"/>
+    <distal x="260.7814" y="89.98706" z="45.67977" diameter="1"/>
+</segment>
+<segment id="296" name="seg_296">
+    <proximal x="260.7072" y="89.5525" z="45.99864" diameter="1"/>
+    <distal x="261.562" y="89.97753" z="45.70081" diameter="1"/>
+</segment>
+<segment id="297" name="seg_297">
+    <proximal x="262.2641" y="89.91251" z="45.84099" diameter="1"/>
+    <distal x="263.2179" y="89.6254" z="45.92943" diameter="1"/>
+</segment>
+<segment id="298" name="seg_298">
+    <proximal x="302.2842" y="93.06183" z="46.35673" diameter="1"/>
+    <distal x="302.3665" y="93.59074" z="47.20141" diameter="1"/>
+</segment>
+<segment id="299" name="seg_299">
+    <proximal x="262.3119" y="92.49499" z="46.11019" diameter="1"/>
+    <distal x="261.67" y="91.7296" z="46.06413" diameter="1"/>
+</segment>
+<segment id="300" name="seg_300">
+    <proximal x="302.9378" y="93.77138" z="46.84403" diameter="1"/>
+    <distal x="303.5958" y="94.4689" z="46.56017" diameter="1"/>
+</segment>
+<segment id="301" name="seg_301">
+    <proximal x="339.2991" y="95.02757" z="47.11037" diameter="1"/>
+    <distal x="340.1397" y="95.27711" z="46.62972" diameter="1"/>
+</segment>
+<segment id="302" name="seg_302">
+    <proximal x="339.8287" y="95.06966" z="47.07353" diameter="1"/>
+    <distal x="340.6694" y="95.3192" z="46.59287" diameter="1"/>
+</segment>
+<segment id="303" name="seg_303">
+    <proximal x="340.8407" y="95.24248" z="46.96169" diameter="1"/>
+    <distal x="341.7737" y="95.32693" z="46.61187" diameter="1"/>
+</segment>
+<segment id="304" name="seg_304">
+    <proximal x="275.5247" y="75.23227" z="45.94501" diameter="1"/>
+    <distal x="276.4628" y="75.53555" z="46.11195" diameter="1"/>
+</segment>
+<segment id="305" name="seg_305">
+    <proximal x="287.4846" y="75.47703" z="45.69881" diameter="1"/>
+    <distal x="288.1752" y="75.23659" z="46.38087" diameter="1"/>
+</segment>
+<segment id="306" name="seg_306">
+    <proximal x="274.4786" y="76.07944" z="46.45698" diameter="1"/>
+    <distal x="275.1039" y="75.61092" z="45.83295" diameter="1"/>
+</segment>
+<segment id="307" name="seg_307">
+    <proximal x="276.2084" y="76.01551" z="45.9559" diameter="1"/>
+    <distal x="277.072" y="76.42595" z="46.24876" diameter="1"/>
+</segment>
+<segment id="308" name="seg_308">
+    <proximal x="276.7846" y="76.114" z="46.22951" diameter="1"/>
+    <distal x="277.684" y="76.46801" z="45.97305" diameter="1"/>
+</segment>
+<segment id="309" name="seg_309">
+    <proximal x="277.3936" y="76.17128" z="46.28449" diameter="1"/>
+    <distal x="278.2585" y="76.48729" z="45.89466" diameter="1"/>
+</segment>
+<segment id="310" name="seg_310">
+    <proximal x="286.89" y="76.40828" z="46.12114" diameter="1"/>
+    <distal x="287.5523" y="75.66019" z="46.16288" diameter="1"/>
+</segment>
+<segment id="311" name="seg_311">
+    <proximal x="286.3308" y="76.98699" z="46.54749" diameter="1"/>
+    <distal x="286.9354" y="76.47024" z="45.94133" diameter="1"/>
+</segment>
+<segment id="312" name="seg_312">
+    <proximal x="286.8883" y="76.91185" z="45.95277" diameter="1"/>
+    <distal x="287.5533" y="76.53249" z="46.5961" diameter="1"/>
+</segment>
+<segment id="313" name="seg_313">
+    <proximal x="279.9867" y="77.93588" z="45.87088" diameter="1"/>
+    <distal x="280.324" y="77.42472" z="46.66144" diameter="1"/>
+</segment>
+<segment id="314" name="seg_314">
+    <proximal x="287.4184" y="77.78116" z="46.6955" diameter="1"/>
+    <distal x="287.022" y="77.07991" z="46.10296" diameter="1"/>
+</segment>
+<segment id="315" name="seg_315">
+    <proximal x="275.1446" y="78.29313" z="46.1571" diameter="1"/>
+    <distal x="274.5155" y="77.58017" z="46.46673" diameter="1"/>
+</segment>
+<segment id="316" name="seg_316">
+    <proximal x="284.0307" y="78.59977" z="46.25666" diameter="1"/>
+    <distal x="284.5398" y="77.78757" z="46.54159" diameter="1"/>
+</segment>
+<segment id="317" name="seg_317">
+    <proximal x="274.9993" y="78.4264" z="46.44878" diameter="1"/>
+    <distal x="275.8101" y="78.96342" z="46.21611" diameter="1"/>
+</segment>
+<segment id="318" name="seg_318">
+    <proximal x="283.5034" y="79.30228" z="46.25835" diameter="1"/>
+    <distal x="283.9163" y="78.49407" z="46.67828" diameter="1"/>
+</segment>
+<segment id="319" name="seg_319">
+    <proximal x="275.5681" y="79.12501" z="46.33786" diameter="1"/>
+    <distal x="276.3734" y="79.71762" z="46.35812" diameter="1"/>
+</segment>
+<segment id="320" name="seg_320">
+    <proximal x="276.1561" y="79.24672" z="46.49574" diameter="1"/>
+    <distal x="276.9791" y="79.7441" z="46.22116" diameter="1"/>
+</segment>
+<segment id="321" name="seg_321">
+    <proximal x="276.7611" y="79.3098" z="46.50836" diameter="1"/>
+    <distal x="277.584" y="79.80718" z="46.23378" diameter="1"/>
+</segment>
+<segment id="322" name="seg_322">
+    <proximal x="288.3496" y="79.9817" z="46.50204" diameter="1"/>
+    <distal x="288.3144" y="79.05586" z="46.8783" diameter="1"/>
+</segment>
+<segment id="323" name="seg_323">
+    <proximal x="288.3196" y="80.67622" z="46.52127" diameter="1"/>
+    <distal x="288.2844" y="79.75037" z="46.89753" diameter="1"/>
+</segment>
+<segment id="324" name="seg_324">
+    <proximal x="300.3455" y="83.59032" z="47.23375" diameter="1"/>
+    <distal x="299.9702" y="82.66935" z="47.12908" diameter="1"/>
+</segment>
+<segment id="325" name="seg_325">
+    <proximal x="296.3364" y="84.46595" z="46.59941" diameter="1"/>
+    <distal x="295.6255" y="83.83626" z="46.91268" diameter="1"/>
+</segment>
+<segment id="326" name="seg_326">
+    <proximal x="296.2486" y="85.05688" z="46.59887" diameter="1"/>
+    <distal x="295.5377" y="84.42719" z="46.91214" diameter="1"/>
+</segment>
+<segment id="327" name="seg_327">
+    <proximal x="300.612" y="84.62683" z="47.42583" diameter="1"/>
+    <distal x="301.4689" y="85.09145" z="47.20268" diameter="1"/>
+</segment>
+<segment id="328" name="seg_328">
+    <proximal x="302.7786" y="85.30101" z="47.50472" diameter="1"/>
+    <distal x="303.7306" y="84.99783" z="47.54718" diameter="1"/>
+</segment>
+<segment id="329" name="seg_329">
+    <proximal x="303.4003" y="85.40786" z="47.53084" diameter="1"/>
+    <distal x="304.3522" y="85.10468" z="47.57329" diameter="1"/>
+</segment>
+<segment id="330" name="seg_330">
+    <proximal x="304.0245" y="85.15152" z="47.64239" diameter="1"/>
+    <distal x="304.9174" y="85.57032" z="47.47721" diameter="1"/>
+</segment>
+<segment id="331" name="seg_331">
+    <proximal x="297.4696" y="85.18911" z="46.75662" diameter="1"/>
+    <distal x="298.3833" y="85.38178" z="47.11432" diameter="1"/>
+</segment>
+<segment id="332" name="seg_332">
+    <proximal x="301.3839" y="85.33782" z="47.36578" diameter="1"/>
+    <distal x="302.3365" y="85.6272" z="47.45988" diameter="1"/>
+</segment>
+<segment id="333" name="seg_333">
+    <proximal x="302.1176" y="85.70753" z="47.44704" diameter="1"/>
+    <distal x="303.0789" y="85.43957" z="47.51192" diameter="1"/>
+</segment>
+<segment id="334" name="seg_334">
+    <proximal x="305.2274" y="85.80335" z="47.50819" diameter="1"/>
+    <distal x="306.0927" y="86.30385" z="47.53476" diameter="1"/>
+</segment>
+<segment id="335" name="seg_335">
+    <proximal x="266.5411" y="85.29879" z="45.97968" diameter="1"/>
+    <distal x="266.5034" y="84.53045" z="46.61861" diameter="1"/>
+</segment>
+<segment id="336" name="seg_336">
+    <proximal x="302.8659" y="86.47196" z="47.29902" diameter="1"/>
+    <distal x="302.3345" y="85.71123" z="47.67179" diameter="1"/>
+</segment>
+<segment id="337" name="seg_337">
+    <proximal x="305.799" y="86.47263" z="47.37078" diameter="1"/>
+    <distal x="306.7247" y="86.81032" z="47.5409" diameter="1"/>
+</segment>
+<segment id="338" name="seg_338">
+    <proximal x="306.3468" y="86.5695" z="47.46183" diameter="1"/>
+    <distal x="307.2882" y="86.87943" z="47.32884" diameter="1"/>
+</segment>
+<segment id="339" name="seg_339">
+    <proximal x="306.8841" y="86.67873" z="47.24278" diameter="1"/>
+    <distal x="307.8474" y="86.91781" z="47.3642" diameter="1"/>
+</segment>
+<segment id="340" name="seg_340">
+    <proximal x="307.4665" y="86.64097" z="47.10103" diameter="1"/>
+    <distal x="308.3435" y="87.07932" z="47.29794" diameter="1"/>
+</segment>
+<segment id="341" name="seg_341">
+    <proximal x="263.1295" y="84.98779" z="46.4889" diameter="1"/>
+    <distal x="263.9616" y="85.38126" z="46.09816" diameter="1"/>
+</segment>
+<segment id="342" name="seg_342">
+    <proximal x="263.8926" y="85.07925" z="46.51005" diameter="1"/>
+    <distal x="264.7247" y="85.47272" z="46.11931" diameter="1"/>
+</segment>
+<segment id="343" name="seg_343">
+    <proximal x="266.741" y="85.40302" z="46.28525" diameter="1"/>
+    <distal x="267.7133" y="85.62126" z="46.3692" diameter="1"/>
+</segment>
+<segment id="344" name="seg_344">
+    <proximal x="268.1661" y="85.76657" z="46.11909" diameter="1"/>
+    <distal x="268.9839" y="85.31371" z="46.47424" diameter="1"/>
+</segment>
+<segment id="345" name="seg_345">
+    <proximal x="268.9189" y="85.8435" z="45.99744" diameter="1"/>
+    <distal x="269.5117" y="85.26496" z="46.5577" diameter="1"/>
+</segment>
+<segment id="346" name="seg_346">
+    <proximal x="304.345" y="89.23024" z="47.58782" diameter="1"/>
+    <distal x="303.5361" y="88.65063" z="47.48922" diameter="1"/>
+</segment>
+<segment id="347" name="seg_347">
+    <proximal x="333.6479" y="91.38546" z="48.16495" diameter="1"/>
+    <distal x="334.5627" y="91.63438" z="47.84684" diameter="1"/>
+</segment>
+<segment id="348" name="seg_348">
+    <proximal x="334.6487" y="91.88712" z="47.90925" diameter="1"/>
+    <distal x="335.602" y="92.17407" z="48.00404" diameter="1"/>
+</segment>
+<segment id="349" name="seg_349">
+    <proximal x="336.0219" y="92.24587" z="47.81226" diameter="1"/>
+    <distal x="335.1837" y="91.78271" z="48.10031" diameter="1"/>
+</segment>
+<segment id="350" name="seg_350">
+    <proximal x="336.1298" y="92.26142" z="48.03362" diameter="1"/>
+    <distal x="336.9579" y="92.77013" z="47.79817" diameter="1"/>
+</segment>
+<segment id="351" name="seg_351">
+    <proximal x="337.3727" y="92.81792" z="47.76365" diameter="1"/>
+    <distal x="336.6367" y="92.21122" z="48.06376" diameter="1"/>
+</segment>
+<segment id="352" name="seg_352">
+    <proximal x="337.8673" y="93.35565" z="47.83428" diameter="1"/>
+    <distal x="337.1112" y="92.70453" z="47.89956" diameter="1"/>
+</segment>
+<segment id="353" name="seg_353">
+    <proximal x="337.6411" y="93.19111" z="47.84996" diameter="1"/>
+    <distal x="338.3422" y="93.90007" z="47.77305" diameter="1"/>
+</segment>
+<segment id="354" name="seg_354">
+    <proximal x="338.8522" y="94.38981" z="47.61961" diameter="1"/>
+    <distal x="338.158" y="93.72758" z="47.9015" diameter="1"/>
+</segment>
+<segment id="355" name="seg_355">
+    <proximal x="339.423" y="94.87468" z="47.49738" diameter="1"/>
+    <distal x="338.6919" y="94.30658" z="47.87507" diameter="1"/>
+</segment>
+<segment id="356" name="seg_356">
+    <proximal x="288.0934" y="75.60917" z="46.91759" diameter="1"/>
+    <distal x="288.9138" y="75.82657" z="47.44642" diameter="1"/>
+</segment>
+<segment id="357" name="seg_357">
+    <proximal x="289.3298" y="76.0148" z="47.11605" diameter="1"/>
+    <distal x="290.054" y="75.44258" z="47.50086" diameter="1"/>
+</segment>
+<segment id="358" name="seg_358">
+    <proximal x="274.0651" y="76.67793" z="47.19991" diameter="1"/>
+    <distal x="274.1405" y="75.69825" z="47.01404" diameter="1"/>
+</segment>
+<segment id="359" name="seg_359">
+    <proximal x="279.9407" y="77.0423" z="46.66754" diameter="1"/>
+    <distal x="280.278" y="76.53114" z="47.45809" diameter="1"/>
+</segment>
+<segment id="360" name="seg_360">
+    <proximal x="287.477" y="76.40075" z="47.02251" diameter="1"/>
+    <distal x="288.342" y="76.38886" z="47.52405" diameter="1"/>
+</segment>
+<segment id="361" name="seg_361">
+    <proximal x="288.5981" y="76.52477" z="47.37006" diameter="1"/>
+    <distal x="289.5601" y="76.25473" z="47.40886" diameter="1"/>
+</segment>
+<segment id="362" name="seg_362">
+    <proximal x="274.0854" y="77.3964" z="47.26626" diameter="1"/>
+    <distal x="274.1608" y="76.41672" z="47.08039" diameter="1"/>
+</segment>
+<segment id="363" name="seg_363">
+    <proximal x="284.7558" y="77.3831" z="46.80372" diameter="1"/>
+    <distal x="285.0707" y="76.96491" z="47.65573" diameter="1"/>
+</segment>
+<segment id="364" name="seg_364">
+    <proximal x="286.4989" y="77.15815" z="46.96158" diameter="1"/>
+    <distal x="285.7187" y="77.08014" z="47.58228" diameter="1"/>
+</segment>
+<segment id="365" name="seg_365">
+    <proximal x="288.8303" y="77.50294" z="47.55793" diameter="1"/>
+    <distal x="289.3066" y="76.62897" z="47.46151" diameter="1"/>
+</segment>
+<segment id="366" name="seg_366">
+    <proximal x="290.8038" y="76.55528" z="47.74102" diameter="1"/>
+    <distal x="290.8657" y="77.54349" z="47.60097" diameter="1"/>
+</segment>
+<segment id="367" name="seg_367">
+    <proximal x="287.4923" y="77.72658" z="47.21813" diameter="1"/>
+    <distal x="288.3043" y="77.81715" z="47.79473" diameter="1"/>
+</segment>
+<segment id="368" name="seg_368">
+    <proximal x="288.1109" y="77.7525" z="47.21002" diameter="1"/>
+    <distal x="288.8459" y="77.76577" z="47.88801" diameter="1"/>
+</segment>
+<segment id="369" name="seg_369">
+    <proximal x="290.436" y="77.81501" z="48.06321" diameter="1"/>
+    <distal x="291.2068" y="77.64537" z="47.44917" diameter="1"/>
+</segment>
+<segment id="370" name="seg_370">
+    <proximal x="274.4593" y="78.3048" z="46.91163" diameter="1"/>
+    <distal x="273.7483" y="78.27532" z="47.61414" diameter="1"/>
+</segment>
+<segment id="371" name="seg_371">
+    <proximal x="288.3484" y="78.81397" z="47.28913" diameter="1"/>
+    <distal x="288.5721" y="78.12126" z="47.97479" diameter="1"/>
+</segment>
+<segment id="372" name="seg_372">
+    <proximal x="291.7139" y="78.79937" z="47.79393" diameter="1"/>
+    <distal x="291.0849" y="78.02546" z="47.8675" diameter="1"/>
+</segment>
+<segment id="373" name="seg_373">
+    <proximal x="292.026" y="79.61176" z="47.88158" diameter="1"/>
+    <distal x="291.9411" y="78.61537" z="47.88082" diameter="1"/>
+</segment>
+<segment id="374" name="seg_374">
+    <proximal x="291.7002" y="80.23126" z="48.05015" diameter="1"/>
+    <distal x="292.2172" y="79.45114" z="47.69784" diameter="1"/>
+</segment>
+<segment id="375" name="seg_375">
+    <proximal x="292.1912" y="80.04829" z="47.67516" diameter="1"/>
+    <distal x="293.0026" y="79.62698" z="48.08031" diameter="1"/>
+</segment>
+<segment id="376" name="seg_376">
+    <proximal x="291.0379" y="80.95924" z="48.00132" diameter="1"/>
+    <distal x="291.5549" y="80.17912" z="47.64901" diameter="1"/>
+</segment>
+<segment id="377" name="seg_377">
+    <proximal x="294.2328" y="80.99308" z="47.96936" diameter="1"/>
+    <distal x="294.9743" y="81.54229" z="47.58396" diameter="1"/>
+</segment>
+<segment id="378" name="seg_378">
+    <proximal x="295.7607" y="81.39779" z="47.60171" diameter="1"/>
+    <distal x="296.6834" y="81.24494" z="47.95553" diameter="1"/>
+</segment>
+<segment id="379" name="seg_379">
+    <proximal x="290.5714" y="82.48636" z="47.65885" diameter="1"/>
+    <distal x="290.5071" y="81.49748" z="47.79287" diameter="1"/>
+</segment>
+<segment id="380" name="seg_380">
+    <proximal x="295.1644" y="82.424" z="47.80367" diameter="1"/>
+    <distal x="295.5486" y="81.51074" z="47.66831" diameter="1"/>
+</segment>
+<segment id="381" name="seg_381">
+    <proximal x="299.3501" y="82.55731" z="47.81407" diameter="1"/>
+    <distal x="298.7254" y="81.82137" z="48.07488" diameter="1"/>
+</segment>
+<segment id="382" name="seg_382">
+    <proximal x="269.3571" y="82.03618" z="47.32761" diameter="1"/>
+    <distal x="269.7729" y="82.89143" z="47.01827" diameter="1"/>
+</segment>
+<segment id="383" name="seg_383">
+    <proximal x="295.5243" y="83.55107" z="47.35887" diameter="1"/>
+    <distal x="294.9392" y="83.02582" z="47.97674" diameter="1"/>
+</segment>
+<segment id="384" name="seg_384">
+    <proximal x="300.2373" y="83.94765" z="48.10727" diameter="1"/>
+    <distal x="299.862" y="83.02667" z="48.0026" diameter="1"/>
+</segment>
+<segment id="385" name="seg_385">
+    <proximal x="266.0748" y="83.35286" z="46.92977" diameter="1"/>
+    <distal x="266.5002" y="82.58185" z="47.40367" diameter="1"/>
+</segment>
+<segment id="386" name="seg_386">
+    <proximal x="291.6338" y="83.87763" z="47.55538" diameter="1"/>
+    <distal x="292.611" y="84.0823" z="47.61265" diameter="1"/>
+</segment>
+<segment id="387" name="seg_387">
+    <proximal x="292.3722" y="84.18431" z="47.47396" diameter="1"/>
+    <distal x="293.2397" y="83.7498" z="47.716" diameter="1"/>
+</segment>
+<segment id="388" name="seg_388">
+    <proximal x="300.2543" y="84.51499" z="48.04197" diameter="1"/>
+    <distal x="299.8577" y="83.59724" z="48.06127" diameter="1"/>
+</segment>
+<segment id="389" name="seg_389">
+    <proximal x="266.2928" y="84.02146" z="46.92437" diameter="1"/>
+    <distal x="266.3764" y="83.16879" z="47.44009" diameter="1"/>
+</segment>
+<segment id="390" name="seg_390">
+    <proximal x="270.3152" y="84.19541" z="47.04193" diameter="1"/>
+    <distal x="270.2414" y="83.21859" z="47.24287" diameter="1"/>
+</segment>
+<segment id="391" name="seg_391">
+    <proximal x="299.5887" y="84.77392" z="48.1561" diameter="1"/>
+    <distal x="300.5134" y="84.46199" z="47.938" diameter="1"/>
+</segment>
+<segment id="392" name="seg_392">
+    <proximal x="266.5071" y="84.62877" z="47.01088" diameter="1"/>
+    <distal x="266.212" y="83.74987" z="47.38567" diameter="1"/>
+</segment>
+<segment id="393" name="seg_393">
+    <proximal x="270.146" y="84.70513" z="46.88556" diameter="1"/>
+    <distal x="270.4645" y="83.89587" z="47.37917" diameter="1"/>
+</segment>
+<segment id="394" name="seg_394">
+    <proximal x="298.6084" y="85.39211" z="47.73849" diameter="1"/>
+    <distal x="299.3684" y="84.84866" z="48.09496" diameter="1"/>
+</segment>
+<segment id="395" name="seg_395">
+    <proximal x="269.3978" y="85.22053" z="46.95574" diameter="1"/>
+    <distal x="270.0239" y="84.5376" z="47.332" diameter="1"/>
+</segment>
+<segment id="396" name="seg_396">
+    <proximal x="308.8565" y="87.53543" z="47.92257" diameter="1"/>
+    <distal x="308.065" y="86.93853" z="47.7911" diameter="1"/>
+</segment>
+<segment id="397" name="seg_397">
+    <proximal x="309.4088" y="88.20747" z="47.72672" diameter="1"/>
+    <distal x="308.7334" y="87.47167" z="47.67706" diameter="1"/>
+</segment>
+<segment id="398" name="seg_398">
+    <proximal x="309.857" y="88.92189" z="47.52427" diameter="1"/>
+    <distal x="309.5308" y="87.9787" z="47.58721" diameter="1"/>
+</segment>
+<segment id="399" name="seg_399">
+    <proximal x="309.9422" y="89.48191" z="47.51174" diameter="1"/>
+    <distal x="309.6159" y="88.53872" z="47.57468" diameter="1"/>
+</segment>
+<segment id="400" name="seg_400">
+    <proximal x="310.0259" y="90.04761" z="47.50992" diameter="1"/>
+    <distal x="309.7045" y="89.10185" z="47.55738" diameter="1"/>
+</segment>
+<segment id="401" name="seg_401">
+    <proximal x="310.0964" y="90.61337" z="47.50861" diameter="1"/>
+    <distal x="309.775" y="89.66761" z="47.55607" diameter="1"/>
+</segment>
+<segment id="402" name="seg_402">
+    <proximal x="310.8778" y="91.17944" z="47.47557" diameter="1"/>
+    <distal x="310.2435" y="90.41344" z="47.37082" diameter="1"/>
+</segment>
+<segment id="403" name="seg_403">
+    <proximal x="310.7567" y="91.17499" z="47.36997" diameter="1"/>
+    <distal x="311.5884" y="91.72601" z="47.3011" diameter="1"/>
+</segment>
+<segment id="404" name="seg_404">
+    <proximal x="331.1664" y="91.341" z="48.74259" diameter="1"/>
+    <distal x="332.1134" y="91.59097" z="48.54086" diameter="1"/>
+</segment>
+<segment id="405" name="seg_405">
+    <proximal x="331.8904" y="91.42688" z="48.77619" diameter="1"/>
+    <distal x="332.8713" y="91.42989" z="48.58179" diameter="1"/>
+</segment>
+<segment id="406" name="seg_406">
+    <proximal x="332.517" y="91.38511" z="48.80616" diameter="1"/>
+    <distal x="333.4979" y="91.38812" z="48.61176" diameter="1"/>
+</segment>
+<segment id="407" name="seg_407">
+    <proximal x="333.0848" y="91.36719" z="48.78584" diameter="1"/>
+    <distal x="334.0778" y="91.35515" z="48.66906" diameter="1"/>
+</segment>
+<segment id="408" name="seg_408">
+    <proximal x="334.1772" y="91.14799" z="48.91888" diameter="1"/>
+    <distal x="335.0485" y="91.49909" z="48.57607" diameter="1"/>
+</segment>
+<segment id="409" name="seg_409">
+    <proximal x="311.8038" y="91.9833" z="47.35063" diameter="1"/>
+    <distal x="312.7189" y="92.32173" z="47.13165" diameter="1"/>
+</segment>
+<segment id="410" name="seg_410">
+    <proximal x="313.2405" y="92.30157" z="47.01769" diameter="1"/>
+    <distal x="312.3204" y="92.13405" z="47.37163" diameter="1"/>
+</segment>
+<segment id="411" name="seg_411">
+    <proximal x="312.8189" y="92.14796" z="47.04745" diameter="1"/>
+    <distal x="313.7493" y="92.41503" z="47.2985" diameter="1"/>
+</segment>
+<segment id="412" name="seg_412">
+    <proximal x="313.3604" y="92.17408" z="46.97296" diameter="1"/>
+    <distal x="314.2368" y="92.48232" z="47.34302" diameter="1"/>
+</segment>
+<segment id="413" name="seg_413">
+    <proximal x="335.5702" y="91.69475" z="48.74192" diameter="1"/>
+    <distal x="336.5117" y="92.02192" z="48.66087" diameter="1"/>
+</segment>
+<segment id="414" name="seg_414">
+    <proximal x="289.8998" y="75.36104" z="48.02359" diameter="1"/>
+    <distal x="290.7694" y="75.39413" z="48.51624" diameter="1"/>
+</segment>
+<segment id="415" name="seg_415">
+    <proximal x="291.0721" y="76.4862" z="48.41198" diameter="1"/>
+    <distal x="290.7405" y="75.54769" z="48.508" diameter="1"/>
+</segment>
+<segment id="416" name="seg_416">
+    <proximal x="285.9362" y="76.82026" z="47.82802" diameter="1"/>
+    <distal x="285.1561" y="76.74225" z="48.44872" diameter="1"/>
+</segment>
+<segment id="417" name="seg_417">
+    <proximal x="288.7099" y="78.06651" z="48.32291" diameter="1"/>
+    <distal x="289.5242" y="78.01911" z="48.90141" diameter="1"/>
+</segment>
+<segment id="418" name="seg_418">
+    <proximal x="289.2347" y="77.87382" z="48.55131" diameter="1"/>
+    <distal x="290.1619" y="78.18562" z="48.75926" diameter="1"/>
+</segment>
+<segment id="419" name="seg_419">
+    <proximal x="289.8285" y="77.98694" z="48.90596" diameter="1"/>
+    <distal x="290.734" y="78.05139" z="48.48661" diameter="1"/>
+</segment>
+<segment id="420" name="seg_420">
+    <proximal x="272.2674" y="78.61864" z="48.32409" diameter="1"/>
+    <distal x="273.1905" y="78.36021" z="48.03929" diameter="1"/>
+</segment>
+<segment id="421" name="seg_421">
+    <proximal x="272.9067" y="78.74317" z="48.31488" diameter="1"/>
+    <distal x="273.8298" y="78.48474" z="48.03008" diameter="1"/>
+</segment>
+<segment id="422" name="seg_422">
+    <proximal x="270.9869" y="79.24431" z="48.20072" diameter="1"/>
+    <distal x="271.8265" y="78.70105" z="48.20029" diameter="1"/>
+</segment>
+<segment id="423" name="seg_423">
+    <proximal x="271.5953" y="79.25771" z="48.20092" diameter="1"/>
+    <distal x="272.5253" y="78.8905" z="48.19144" diameter="1"/>
+</segment>
+<segment id="424" name="seg_424">
+    <proximal x="292.8906" y="79.32581" z="48.61211" diameter="1"/>
+    <distal x="293.7461" y="79.53538" z="49.08571" diameter="1"/>
+</segment>
+<segment id="425" name="seg_425">
+    <proximal x="270.3426" y="79.94011" z="48.19263" diameter="1"/>
+    <distal x="271.1214" y="79.31289" z="48.20174" diameter="1"/>
+</segment>
+<segment id="426" name="seg_426">
+    <proximal x="294.2706" y="80.57871" z="48.80049" diameter="1"/>
+    <distal x="293.7001" y="79.75753" z="48.81529" diameter="1"/>
+</segment>
+<segment id="427" name="seg_427">
+    <proximal x="269.7183" y="80.66017" z="48.17766" diameter="1"/>
+    <distal x="270.4159" y="79.94385" z="48.19096" diameter="1"/>
+</segment>
+<segment id="428" name="seg_428">
+    <proximal x="291.0445" y="81.24882" z="48.79595" diameter="1"/>
+    <distal x="291.6958" y="80.48999" z="48.79177" diameter="1"/>
+</segment>
+<segment id="429" name="seg_429">
+    <proximal x="296.528" y="81.01682" z="48.67961" diameter="1"/>
+    <distal x="297.5164" y="81.05578" z="48.82643" diameter="1"/>
+</segment>
+<segment id="430" name="seg_430">
+    <proximal x="297.4228" y="81.10719" z="48.71055" diameter="1"/>
+    <distal x="298.4112" y="81.14615" z="48.85737" diameter="1"/>
+</segment>
+<segment id="431" name="seg_431">
+    <proximal x="269.1482" y="81.38928" z="48.04766" diameter="1"/>
+    <distal x="269.6874" y="80.58208" z="48.28788" diameter="1"/>
+</segment>
+<segment id="432" name="seg_432">
+    <proximal x="267.6799" y="81.86586" z="48.1522" diameter="1"/>
+    <distal x="268.5735" y="81.41693" z="48.15819" diameter="1"/>
+</segment>
+<segment id="433" name="seg_433">
+    <proximal x="268.3094" y="81.73965" z="48.28856" diameter="1"/>
+    <distal x="269.2587" y="81.58197" z="48.01682" diameter="1"/>
+</segment>
+<segment id="434" name="seg_434">
+    <proximal x="294.3908" y="82.69834" z="48.8686" diameter="1"/>
+    <distal x="294.8072" y="81.87927" z="48.474" diameter="1"/>
+</segment>
+<segment id="435" name="seg_435">
+    <proximal x="266.5032" y="82.56582" z="47.93831" diameter="1"/>
+    <distal x="267.1574" y="81.93861" z="48.36102" diameter="1"/>
+</segment>
+<segment id="436" name="seg_436">
+    <proximal x="267.0774" y="82.51481" z="48.00061" diameter="1"/>
+    <distal x="267.9199" y="82.06313" z="48.29425" diameter="1"/>
+</segment>
+<segment id="437" name="seg_437">
+    <proximal x="293.3845" y="83.24322" z="48.60931" diameter="1"/>
+    <distal x="294.2104" y="82.68226" z="48.66602" diameter="1"/>
+</segment>
+<segment id="438" name="seg_438">
+    <proximal x="270.3851" y="83.41256" z="47.93524" diameter="1"/>
+    <distal x="269.8944" y="82.59411" z="48.23421" diameter="1"/>
+</segment>
+<segment id="439" name="seg_439">
+    <proximal x="330.4832" y="90.39756" z="49.64974" diameter="1"/>
+    <distal x="331.2501" y="90.72653" z="49.09866" diameter="1"/>
+</segment>
+<segment id="440" name="seg_440">
+    <proximal x="311.2851" y="91.66107" z="48.06798" diameter="1"/>
+    <distal x="312.1167" y="92.2121" z="47.9991" diameter="1"/>
+</segment>
+<segment id="441" name="seg_441">
+    <proximal x="313.909" y="92.64491" z="47.68307" diameter="1"/>
+    <distal x="314.7852" y="92.94562" z="48.05972" diameter="1"/>
+</segment>
+<segment id="442" name="seg_442">
+    <proximal x="314.3875" y="92.7111" z="47.72189" diameter="1"/>
+    <distal x="315.3147" y="92.95353" z="48.0077" diameter="1"/>
+</segment>
+<segment id="443" name="seg_443">
+    <proximal x="314.8704" y="92.8443" z="47.86322" diameter="1"/>
+    <distal x="315.8677" y="92.91745" z="47.86836" diameter="1"/>
+</segment>
+<segment id="444" name="seg_444">
+    <proximal x="315.4063" y="93.01929" z="47.73187" diameter="1"/>
+    <distal x="316.3412" y="92.80007" z="48.01091" diameter="1"/>
+</segment>
+<segment id="445" name="seg_445">
+    <proximal x="315.9314" y="93.01447" z="47.69095" diameter="1"/>
+    <distal x="316.8453" y="92.87303" z="48.07148" diameter="1"/>
+</segment>
+<segment id="446" name="seg_446">
+    <proximal x="326.4153" y="89.84533" z="49.64302" diameter="1"/>
+    <distal x="327.3723" y="89.57207" z="49.73957" diameter="1"/>
+</segment>
+<segment id="447" name="seg_447">
+    <proximal x="327.4531" y="89.48551" z="49.80899" diameter="1"/>
+    <distal x="328.4225" y="89.72186" z="49.87548" diameter="1"/>
+</segment>
+<segment id="448" name="seg_448">
+    <proximal x="329.7876" y="90.94744" z="50.23521" diameter="1"/>
+    <distal x="330.5545" y="91.27641" z="49.68413" diameter="1"/>
+</segment>
+<segment id="449" name="seg_449">
+    <proximal x="316.549" y="92.30913" z="48.36003" diameter="1"/>
+    <distal x="317.47" y="92.25465" z="48.74587" diameter="1"/>
+</segment>
+<segment id="450" name="seg_450">
+    <proximal x="318.1419" y="92.35807" z="48.49418" diameter="1"/>
+    <distal x="319.089" y="92.25017" z="48.79649" diameter="1"/>
+</segment>
+<segment id="451" name="seg_451">
+    <proximal x="318.7096" y="92.27633" z="48.48893" diameter="1"/>
+    <distal x="319.6287" y="92.32315" z="48.88001" diameter="1"/>
+</segment>
+<segment id="452" name="seg_452">
+    <proximal x="321.0424" y="92.36682" z="49.03176" diameter="1"/>
+    <distal x="321.9827" y="92.12097" z="48.79633" diameter="1"/>
+</segment>
+<segment id="453" name="seg_453">
+    <proximal x="321.682" y="92.30852" z="49.03799" diameter="1"/>
+    <distal x="322.666" y="92.15423" z="48.949" diameter="1"/>
+</segment>
+<segment id="454" name="seg_454">
+    <proximal x="322.3413" y="92.22827" z="49.00185" diameter="1"/>
+    <distal x="323.3346" y="92.20496" z="49.11508" diameter="1"/>
+</segment>
+<segment id="455" name="seg_455">
+    <proximal x="323.0692" y="92.21695" z="49.08855" diameter="1"/>
+    <distal x="324.0625" y="92.19364" z="49.20177" diameter="1"/>
+</segment>
+<segment id="456" name="seg_456">
+    <proximal x="323.8965" y="92.31008" z="49.09225" diameter="1"/>
+    <distal x="324.8118" y="92.0387" z="49.38984" diameter="1"/>
+</segment>
+<segment id="457" name="seg_457">
+    <proximal x="317.0696" y="92.92934" z="48.44671" diameter="1"/>
+    <distal x="318.0132" y="92.78341" z="48.74377" diameter="1"/>
+</segment>
+<segment id="458" name="seg_458">
+    <proximal x="317.5875" y="92.92323" z="48.59757" diameter="1"/>
+    <distal x="318.5799" y="92.81438" z="48.65496" diameter="1"/>
+</segment>
+<segment id="459" name="seg_459">
+    <proximal x="326.0117" y="90.63219" z="50.22066" diameter="1"/>
+    <distal x="326.7911" y="90.01444" z="50.32495" diameter="1"/>
+</segment>
+<segment id="460" name="seg_460">
+    <proximal x="328.8724" y="89.95292" z="50.66694" diameter="1"/>
+    <distal x="329.8207" y="90.27015" z="50.65187" diameter="1"/>
+</segment>
+<segment id="461" name="seg_461">
+    <proximal x="325.1432" y="91.5087" z="49.99998" diameter="1"/>
+    <distal x="325.9099" y="90.90211" z="50.21021" diameter="1"/>
+</segment>
+<segment id="462" name="seg_462">
+    <proximal x="319.4916" y="92.63155" z="49.23846" diameter="1"/>
+    <distal x="320.3972" y="92.81411" z="49.62135" diameter="1"/>
+</segment>
+<segment id="463" name="seg_463">
+    <proximal x="320.0505" y="92.70043" z="49.40428" diameter="1"/>
+    <distal x="321.0357" y="92.72832" z="49.57348" diameter="1"/>
+</segment>
+<segment id="464" name="seg_464">
+    <proximal x="320.6891" y="92.83228" z="49.66926" diameter="1"/>
+    <distal x="321.6231" y="92.57965" z="49.41658" diameter="1"/>
+</segment>
+            <segmentGroup id="Soma">
+                <member segment="0"/>
+            </segmentGroup>
+
+            <segmentGroup id="all">
+                <include segmentGroup="Soma"/>
+            </segmentGroup>
+
+            <segmentGroup id="soma_group">
+                <include segmentGroup="Soma"/>
+            </segmentGroup>
+            
+        </morphology>
+
+    </cell>
+    
+</neuroml>
